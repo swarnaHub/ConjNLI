@@ -1,0 +1,2573 @@
+Thirty-three
+0
+	O
+
+
+Scotty did not go back to school .
+0	0	0	0	0	0	0	0
+	O	O	O	O	O	O	O	O
+
+
+His parents talked seriously and lengthily to their own doctor and to a specialist at the University Hospital -- Mr. McKinley was entitled to a discount for members of his family -- and it was decided it would be best for him to take the remainder of the term off , spend a lot of time in bed and , for the rest , do pretty much as he chose -- provided , of course , he chose to do nothing too exciting or too debilitating .
+0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0
+talk	B-A0	I-A0	B-V	B-AM-MNR	I-AM-MNR	I-AM-MNR	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+entitle	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A2	I-A2	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+decide	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+take	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	B-C-V	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+spend	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	O	O	O	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	B-AM-LOC	I-AM-LOC	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+do	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-V	B-AM-ADV	I-AM-ADV	B-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+choose	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+provide	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	O	B-AM-DIS	I-AM-DIS	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+choose	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+do	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+His teacher and his school principal were conferred with and everyone agreed that , if he kept up with a certain amount of work at home , there was little danger of his losing a term .
+0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+agree	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+keep	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	I-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	B-AM-LOC	I-AM-LOC	O	O	O	O	O	O	O	O	O	O	O
+lose	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	O
+
+
+Scotty accepted the decision with indifference and did not enter the arguments .
+0	1	0	0	0	0	0	0	0	1	0	0	0
+accept	B-A0	B-V	B-A1	I-A1	B-AM-MNR	I-AM-MNR	O	O	O	O	O	O	O
+enter	B-A0	O	O	O	O	O	O	O	B-AM-NEG	B-V	B-A1	I-A1	O
+
+
+He was discharged from the hospital after a two-day checkup and he and his parents had what Mr. McKinley described as a `` celebration lunch '' at the cafeteria on the campus .
+0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+discharge	B-A1	O	B-V	B-AM-ADV	I-AM-ADV	I-AM-ADV	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+have	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	I-A0	I-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O
+describe	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-R-A1	B-A0	I-A0	B-V	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	O	O	O	O	O	O	O
+
+
+Rachel wore a smart hat and , because she had been warned recently about smoking , puffed at her cigarettes through a long ivory holder stained with lipstick .
+0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+wear	B-A0	B-V	B-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+warn	O	O	O	O	O	O	O	O	B-A2	O	O	B-V	B-AM-TMP	B-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+puff	B-A0	O	O	O	O	O	O	B-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	O	B-V	B-A1	I-A1	I-A1	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O
+stain	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	I-A1	I-A1	B-V	B-AM-MNR	I-AM-MNR	O
+
+
+Scotty 's father sat sprawled in his chair , angular , alert as a cricket , looking about at the huge stainless-steel appointments of the room with an expression of proprietorship .
+0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sit	B-A1	I-A1	I-A1	B-V	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+sprawl	B-A1	I-A1	I-A1	O	B-V	B-A2	I-A2	I-A2	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+look	B-A0	I-A0	I-A0	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-AM-DIR	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O
+
+
+Teachers -- men who wore brown suits and had gray hair and pleasant smiles -- came to their table to talk shop and to be introduced to Scotty and Rachel .
+0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0
+wear	O	O	B-A0	B-R-A0	B-V	B-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+have	O	O	B-A0	B-R-A0	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+come	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	B-V	B-A4	I-A4	I-A4	B-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	O
+talk	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	O	O	O	O	O	B-V	B-A1	O	O	O	O	O	O	O	O	O
+introduce	B-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A2	I-A2	I-A2	I-A2	O
+
+
+Rachel was polite , Scotty indifferent .
+0	0	0	0	0	0	0
+	O	O	O	O	O	O	O
+
+
+They ate the cafeteria food with its orange sauces and Scotty gazed without interest at his food , the teachers , the heroic baronial windows , and the bright ranks of college banners .
+0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+eat	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+gaze	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-AM-MNR	I-AM-MNR	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+His father tried to make the food a topic .
+0	0	1	0	1	0	0	0	0	0
+try	B-A0	I-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+make	B-A0	I-A0	O	O	B-V	B-A1	I-A1	B-A2	I-A2	O
+
+
+`` The blueberry pie is good , Scotty .
+0	0	0	0	0	0	0	0	0
+	O	O	O	O	O	O	O	O	O
+
+
+I recommend it '' .
+0	1	0	0	0
+recommend	B-A0	B-V	B-A1	O	O
+
+
+He looked at his son , his face worried .
+0	1	0	0	0	0	0	0	1	0
+look	B-A0	B-V	B-A1	I-A1	I-A1	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	O
+worry	O	O	O	O	O	O	B-A1	I-A1	B-V	O
+
+
+Scotty murmured , `` No , thanks '' , so softly his father had to bend his gaunt height across the table and turn a round brown ear to him .
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+murmur	B-A0	B-V	O	O	B-A1	O	B-C-A1	O	O	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O
+bend	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	O	O	B-V	B-A1	I-A1	I-A1	B-AM-DIR	I-AM-DIR	I-AM-DIR	O	O	O	O	O	O	O	O	O
+turn	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	B-AM-DIR	I-AM-DIR	O
+
+
+Scotty regarded the ear and the grizzled hair around it with a moment of interest .
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+regard	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+
+
+He said more loudly , `` I 'm full , old Pop '' .
+0	1	0	0	0	0	0	0	0	0	0	0	0	0
+say	B-A0	B-V	B-AM-MNR	I-AM-MNR	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O
+
+
+He had eaten almost nothing on the crested , three-sectioned plate and had drunk about half the milk in its paper container .
+0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+eat	B-A0	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O
+drink	B-A0	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+`` He 's all right , Craig '' , Rachel said .
+0	0	0	0	0	0	0	0	0	0	1	0
+say	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	B-A0	B-V	O
+
+
+`` I can fix him something later in the afternoon when we get home '' .
+0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+fix	O	B-A0	B-AM-MOD	B-V	B-A2	B-A1	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O	O
+get	O	O	O	O	O	O	O	O	B-AM-TMP	I-AM-TMP	B-R-AM-TMP	B-A1	B-V	B-A2	O	O
+
+
+Since his seizure , Scotty had had little appetite ; ; yet his changed appearance , surprisingly , was one of plumpness .
+0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+have	B-AM-TMP	I-AM-TMP	I-AM-TMP	O	B-A0	O	B-V	B-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+change	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	O	O	O	O	O	O	O	O
+
+
+His face was fuller ; ; his lips and the usually sharp lines of his jaw had become swollen-looking .
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+become	O	O	O	O	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	B-V	B-A2	O
+
+
+He breathed now with his mouth open , showing a whitely curving section of lower teeth ; ; he kept his eyes , with their puffed blurred lids , always lowered , though not , apparently , focusing .
+0	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	0
+breathe	B-A0	B-V	B-AM-TMP	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+show	B-A0	O	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+curve	O	O	O	O	O	O	O	O	O	O	B-AM-MNR	B-V	B-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+keep	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+puff	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	O	B-A1	O	O	O	O	O	O	O	O	O	O	O
+lower	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	B-AM-TMP	B-V	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+focus	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O	B-AM-NEG	O	B-AM-ADV	O	B-V	O
+
+
+Even his neck seemed thicker and , therefore , shorter .
+0	0	0	1	0	0	0	0	0	0	0
+seem	B-A1	I-A1	I-A1	B-V	B-C-A1	I-C-A1	O	B-C-A1	I-C-A1	I-C-A1	O
+
+
+His hands , which had been as quick as a pair of fluttering birds , were now neither active nor really relaxed .
+0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+flutter	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A0	O	O	O	O	O	O	O	O	O
+
+
+They lay on his lap , palms up , stiffly motionless , the tapered fingers a little thick at the joints .
+0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+lie	B-A1	B-V	B-A2	I-A2	I-A2	O	B-AM-ADV	I-AM-ADV	O	B-AM-ADV	I-AM-ADV	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+taper	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	O	O	O	O	O	O	O
+
+
+Altogether he had , since the seizure , the appearance of a boy who overindulged in food and took no exercise .
+0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0
+have	B-AM-ADV	B-A0	B-V	O	B-AM-TMP	I-AM-TMP	I-AM-TMP	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+overindulge	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	B-R-A0	B-V	B-A1	I-A1	O	O	O	O	O
+take	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	B-R-A0	O	O	O	O	B-V	B-A1	I-A1	O
+
+
+He looked lazy , spoiled , a little querulous .
+0	1	0	0	0	0	0	0	0	0
+look	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+Rachel had little to say .
+0	1	0	0	1	0
+have	B-A0	B-V	B-A1	I-A1	I-A1	O
+say	B-A0	O	B-A1	O	B-V	O
+
+
+She greeted her husband 's colleagues with smiling politeness , offering nothing .
+0	1	0	0	0	0	0	0	0	0	1	0	0
+greet	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	B-A3	I-A3	I-A3	O	B-AM-ADV	I-AM-ADV	O
+offer	B-A0	O	O	O	O	O	O	O	O	O	B-V	B-A1	O
+
+
+Mr. McKinley , for all his sprawling and his easy familiarity , was completely alert to his son , eyes always on the still face , jumping to anticipate Scotty 's desires .
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0
+jump	B-A0	I-A0	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	O
+anticipate	B-A0	I-A0	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	O
+
+
+It was a strained , silent lunch .
+0	0	0	0	0	0	0	0
+	O	O	O	O	O	O	O	O
+
+
+Rachel said , `` I 'd better get him to bed '' .
+0	1	0	0	0	0	0	1	0	0	0	0	0
+say	B-A0	B-V	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O
+get	O	O	O	O	B-A0	B-AM-MOD	B-AM-ADV	B-V	B-A1	B-A2	I-A2	O	O
+
+
+The doctors had suggested Scotty remain most of every afternoon in bed until he was stronger .
+0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+suggest	B-A0	I-A0	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+remain	O	O	O	O	B-A1	B-V	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	B-AM-LOC	I-AM-LOC	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O
+
+
+Since Mr. McKinley had to give a lecture , Rachel and Scotty drove home alone in the Plymouth .
+0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0
+give	O	B-A0	I-A0	O	O	B-V	B-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O
+drive	B-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	O	B-A0	I-A0	I-A0	B-V	B-AM-DIR	B-AM-ADV	B-AM-MNR	I-AM-MNR	I-AM-MNR	O
+
+
+They did not speak much .
+0	0	0	1	0	0
+speak	B-A0	O	B-AM-NEG	B-V	B-AM-ADV	O
+
+
+Scotty gazed out at ugly gray slums and said softly , `` Look at those stupid kids '' .
+0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0
+gaze	B-A0	B-V	B-AM-DIR	B-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O
+say	B-A0	O	O	O	O	O	O	O	B-V	B-AM-MNR	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	O	O
+look	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	O	O
+
+
+It was a Negro section of peeling row houses , store-front churches and ragged children .
+0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+peel	O	O	O	O	O	O	B-V	B-A1	I-A1	O	O	O	O	O	O	O
+
+
+Rachel had to bend toward Scotty and ask him to repeat .
+0	0	0	1	0	0	0	1	0	0	1	0
+bend	B-A0	O	O	B-V	B-AM-DIR	I-AM-DIR	O	O	O	O	O	O
+ask	B-A0	O	O	O	O	O	O	B-V	B-A2	B-A1	I-A1	O
+repeat	O	O	O	O	O	O	O	O	B-A0	O	B-V	O
+
+
+He said , `` Nothing '' .
+0	1	0	0	0	0	0
+say	B-A0	B-V	O	O	B-A1	O	O
+
+
+And then : `` There are lots of kids around here '' .
+0	0	0	0	0	0	0	0	0	0	0	0	0
+	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+
+Scotty looked at the children , his mouth slightly opened , his eyes dull .
+0	1	0	0	0	0	0	0	0	1	0	0	0	0	0
+look	B-A0	B-V	B-A1	I-A1	I-A1	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	O
+open	O	O	O	O	O	O	B-A1	I-A1	B-AM-EXT	B-V	O	O	O	O	O
+
+
+He felt tired and full and calm .
+0	1	0	0	0	0	0	0
+feel	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+Thirty-four
+0
+	O
+
+
+the days seemed short , perhaps because his routine was , each day , almost the same .
+0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+seem	B-A1	I-A1	B-V	B-C-A1	O	B-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	O
+
+
+He rose late and went down in his bathrobe and slippers to have breakfast either alone or with Rachel .
+0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+rise	B-A1	B-V	B-AM-TMP	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+go	B-A0	O	O	O	B-V	B-AM-DIR	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	B-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	O
+have	B-A0	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O
+
+
+Virginia treated him with attention and tried to tempt his appetite with special food : biscuits , cookies , candies -- the result of devoted hours in the tiled kitchen .
+0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+treat	B-A0	B-V	B-A1	B-A2	I-A2	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+try	B-A0	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+tempt	B-A0	O	O	O	O	O	O	O	B-V	B-A1	I-A1	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	O
+
+
+She would hover over him and , looking like her brother , anxiously watch the progress of Scotty 's fork or spoon .
+0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+hover	B-A1	B-AM-MOD	B-V	B-A2	I-A2	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+look	B-A0	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O
+watch	B-A0	B-AM-MOD	O	O	O	O	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-AM-MNR	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+`` You do n't eat enough , honey .
+0	0	0	0	1	0	0	0	0
+eat	O	B-A0	O	B-AM-NEG	B-V	B-A1	O	O	O
+
+
+Try to get that down '' .
+1	0	1	0	0	0	0
+try	B-V	B-A1	I-A1	I-A1	I-A1	O	O
+get	O	O	B-V	B-A1	B-A2	O	O
+
+
+Rachel , observing , would say , `` He has to rediscover his own capacity .
+0	0	1	0	0	1	0	0	0	0	0	1	0	0	0	0
+observe	B-A0	O	B-V	O	O	O	O	O	O	O	O	O	O	O	O	O
+say	B-A0	O	B-AM-ADV	O	B-AM-MOD	B-V	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+rediscover	O	O	O	O	O	O	O	O	B-A0	O	O	B-V	B-A1	I-A1	I-A1	O
+
+
+It 'll take time '' .
+0	0	1	0	0	0
+take	B-A0	B-AM-MOD	B-V	B-A1	O	O
+
+
+Virginia and Rachel talked to each other quietly now , as allies who are political rather than natural might in a war atmosphere .
+0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+talk	B-A0	I-A0	I-A0	B-V	B-A2	I-A2	I-A2	B-AM-MNR	B-AM-TMP	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+
+
+Both watched Scotty constantly , Rachel without seeming to , Virginia openly , her eyes filled with concern .
+0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+watch	B-A0	B-V	B-A1	B-AM-MNR	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+seem	O	O	O	O	O	B-A1	I-A1	B-V	B-C-A1	O	O	O	O	O	O	O	O	O	O
+fill	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	B-V	B-A2	I-A2	O
+
+
+Scotty was neutral .
+0	0	0	0
+	O	O	O	O
+
+
+He did not resent their supervision or Virginia 's sometimes tiring sympathy .
+0	0	0	1	0	0	0	0	0	0	1	0	0
+resent	B-A0	O	B-AM-NEG	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+tire	O	O	O	O	O	O	O	O	O	B-AM-TMP	B-V	B-A0	O
+
+
+He ate what he felt like , slept as much or as little as he pleased , and moved about the draughty rooms of the house , when he was not in bed , with slow , dubious steps , like an elderly tourist in a cathedral .
+0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+eat	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+feel	O	O	O	B-A0	B-V	B-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+sleep	B-A0	O	O	O	O	O	O	B-V	B-AM-EXT	I-AM-EXT	I-AM-EXT	I-AM-EXT	I-AM-EXT	I-AM-EXT	I-AM-EXT	I-AM-EXT	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+please	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	B-V	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+move	B-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O
+
+
+His energy was gone .
+0	0	0	1	0
+go	B-A1	I-A1	O	B-V	O
+
+
+He was able , now , to sit for hours in a chair in the living room and stare out at the bleak yard without moving .
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0
+sit	B-A1	O	O	O	O	O	O	B-V	B-AM-TMP	I-AM-TMP	B-A2	I-A2	I-A2	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O	O	O	O	O	O	O	O	O	O
+stare	B-A0	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-AM-DIR	B-A1	I-A1	I-A1	I-A1	B-AM-ADV	I-AM-ADV	O
+move	B-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	O
+
+
+His hands lay loosely , yet stiffly -- they were like wax hands : almost lifelike , not quite -- folded in his lap ; ; his mouth hung slightly open .
+0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+lie	B-A1	I-A1	B-V	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O	O	O	O	O	O	O	O
+hang	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	B-V	B-AM-MNR	I-AM-MNR	O
+
+
+When he was asked a question or addressed in such a way that some response was inescapable , he would answer ; ; if , as often happened , he had to repeat because he had spoken too softly , he would repeat his words in the same way , without emphasis or impatience , only a little louder .
+0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ask	B-R-AM-TMP	B-A2	O	B-V	B-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+address	B-R-AM-TMP	B-A1	O	O	O	O	O	B-V	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+answer	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O	B-A0	B-AM-MOD	B-V	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+repeat	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	O	O	B-V	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+speak	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	O	B-V	B-AM-MNR	I-AM-MNR	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+repeat	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-A0	B-AM-MOD	B-V	B-A1	I-A1	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O	B-C-AM-MNR	I-C-AM-MNR	I-C-AM-MNR	I-C-AM-MNR	O	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O
+
+
+He had not mentioned Kate .
+0	0	0	1	0	0
+mention	B-A0	O	B-AM-NEG	B-V	B-A1	O
+
+
+He had not even thought about her much except once or twice at night in bed when his slowly ranging thoughts would abruptly , almost accidentally , encounter her .
+0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0
+think	B-A0	O	B-AM-NEG	B-AM-ADV	B-V	B-A2	I-A2	B-AM-EXT	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+range	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-AM-MNR	B-V	B-A1	O	O	O	O	O	O	O	O	O
+encounter	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	I-A0	I-A0	B-AM-MOD	B-AM-MNR	O	B-AM-MNR	I-AM-MNR	O	B-V	B-A1	O
+
+
+At these times he felt a kind of pain in his upper chest , but it was an objective pain , in no way different from others in intensity and not different in kind ; ; it was like the bandaged wound on the back of his head which occasionally throbbed ; ; it was merely another part of his weakness .
+0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+feel	B-AM-TMP	I-AM-TMP	I-AM-TMP	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+bandage	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+throb	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	I-A1	O	O	O	O	O	O	B-R-A1	B-AM-TMP	B-V	O	O	O	O	O	O	O	O	O	O	O
+
+
+He was calm , drugged , and lazy .
+0	0	0	0	1	0	0	0	0
+drug	B-A1	O	O	O	B-V	O	O	O	O
+
+
+He did not care .
+0	0	0	0	0
+	O	O	O	O	O
+
+
+Rachel mentioned Kate .
+0	1	0	0
+mention	B-A0	B-V	B-A1	O
+
+
+She said , `` I notice the girl from across the street has n't bothered to phone or visit '' .
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	1	0	0
+say	B-A0	B-V	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O
+notice	O	O	O	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O
+bother	O	O	O	O	O	O	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	O	B-AM-NEG	B-V	B-A1	I-A1	I-A1	I-A1	O	O
+phone	O	O	O	O	O	O	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	O	O	O	O	B-V	O	O	O	O
+visit	O	O	O	O	O	O	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	O	O	O	O	O	O	B-V	O	O
+
+
+Scotty said , `` That 's all right .
+0	1	0	0	0	0	0	0	0
+say	B-A0	B-V	O	O	B-A1	I-A1	I-A1	I-A1	O
+
+
+Kate 's all right '' .
+0	0	0	0	0	0
+	O	O	O	O	O	O
+
+
+He thought about it briefly , then deliberately turned the talk to something else .
+0	1	0	0	0	0	0	0	1	0	0	0	0	0	0
+think	B-A0	B-V	B-A2	I-A2	B-AM-TMP	O	O	O	O	O	O	O	O	O	O
+turn	B-A0	O	O	O	O	O	B-AM-TMP	B-AM-MNR	B-V	B-A1	I-A1	B-AM-DIR	I-AM-DIR	I-AM-DIR	O
+
+
+Once , sitting at the front window in his parents ' room , he saw Kate come out of her house .
+0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0
+sit	O	O	B-V	B-A2	I-A2	I-A2	I-A2	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O	B-A1	O	O	O	O	O	O	O	O
+see	B-AM-TMP	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+come	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	B-V	B-A3	I-A3	I-A3	I-A3	O
+
+
+She was with Elizabeth .
+0	0	0	0	0
+	O	O	O	O	O
+
+
+They were far off and looked tiny .
+0	0	0	0	0	1	0	0
+look	B-A0	O	O	O	O	B-V	B-A1	O
+
+
+The heavy branches in his front yard would hide and then reveal them .
+0	0	0	0	0	0	0	0	1	0	0	1	0	0
+hide	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	B-AM-MOD	B-V	O	O	O	B-A1	O
+reveal	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	B-AM-MOD	O	O	O	B-V	B-A1	O
+
+
+They turned at the bottom of Kate 's steps and moved off in the direction of the park .
+0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+turn	B-A1	B-V	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O	O	O	O	O	O	O	O	O	O
+move	B-A1	O	O	O	O	O	O	O	O	O	B-V	I-V	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O
+
+
+He thought he saw -- it awakened and , for a moment , interested him -- that Elizabeth held a leash in her hand and that a round fuzzy puppy was on the end of the leash .
+0	1	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+think	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+see	O	O	B-A0	B-V	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+awaken	O	O	O	O	O	B-A0	B-V	O	O	O	O	O	O	O	B-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+interest	O	O	O	O	O	B-A0	O	O	O	B-AM-TMP	I-AM-TMP	I-AM-TMP	O	B-V	B-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+hold	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	B-AM-LOC	I-AM-LOC	I-AM-LOC	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+
+Then they disappeared and Scotty got up and went into his own room and got into bed .
+0	0	1	0	0	1	0	0	1	0	0	0	0	0	1	0	0	0
+disappear	B-AM-DIS	B-A1	B-V	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+get	O	O	O	O	B-A1	B-V	I-V	O	O	O	O	O	O	O	O	O	O	O
+go	O	O	O	O	B-A0	O	O	O	B-V	B-A4	I-A4	I-A4	I-A4	O	O	O	O	O
+get	O	O	O	O	B-A1	O	O	O	O	O	O	O	O	O	B-V	B-A2	I-A2	O
+
+
+By the time he was under the covers he had forgotten about seeing Kate .
+0	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+forget	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	B-A0	O	B-V	B-A1	I-A1	I-A1	O
+see	O	O	O	O	O	O	O	O	B-A0	O	O	O	B-V	B-A1	O
+
+
+The doctor , since Scotty was no longer allowed to make his regular trips into town to see him , came often and informally to the house .
+0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+allow	O	O	O	O	B-A1	O	B-AM-NEG	I-AM-NEG	B-V	B-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	O	O	O	O	O	O	O	O	O
+make	O	O	O	O	B-A0	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	B-AM-PNC	I-AM-PNC	I-AM-PNC	O	O	O	O	O	O	O	O	O
+see	O	O	O	O	B-A0	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	O	O	O	O	O	O	O	O	O
+come	B-A1	I-A1	O	B-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	O	B-V	B-AM-MNR	I-AM-MNR	I-AM-MNR	B-A4	I-A4	I-A4	O
+
+
+He would sit , slim-waisted and spare , on the edge of Scotty 's bed , his legs crossed so elaborately that the crossed foot could tap the floor .
+0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0
+sit	B-A1	B-AM-MOD	B-V	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+cross	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	B-V	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O
+cross	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	O	O	O	O	O
+tap	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	I-A0	B-AM-MOD	B-V	B-A1	I-A1	O
+
+
+Scotty did not mind the doctor 's unsmiling teasing as he used to .
+0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+
+`` Husky young man '' , he said with mock distaste .
+0	0	0	0	0	0	0	1	0	0	0	0
+say	O	B-A1	I-A1	I-A1	O	O	B-A0	B-V	B-AM-MNR	I-AM-MNR	I-AM-MNR	O
+
+
+`` I imagine you 're always battling in school '' .
+0	0	1	0	0	0	1	0	0	0	0
+imagine	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O
+battle	O	O	O	B-A0	O	B-AM-TMP	B-V	B-AM-LOC	I-AM-LOC	O	O
+
+
+`` I do n't go to school any more '' .
+0	0	0	0	1	0	0	0	0	0	0
+go	O	B-A0	O	B-AM-NEG	B-V	B-A4	I-A4	B-AM-TMP	I-AM-TMP	O	O
+
+
+`` Pardon '' ? ?
+0	0	0	0	0
+	O	O	O	O	O
+
+
+The doctor had to bend close to hear ; ; his delicate hand , as veined as a moth 's wing , rested absently on Scotty 's chest .
+0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+bend	B-A0	I-A0	O	O	B-V	B-AM-DIR	B-AM-PNC	I-AM-PNC	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+hear	B-A0	I-A0	O	O	O	O	O	B-V	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+rest	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	B-V	B-AM-MNR	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O
+
+
+Scotty said the same words more loudly .
+0	1	0	0	0	0	0	0
+say	B-A0	B-V	B-A1	I-A1	I-A1	B-AM-MNR	I-AM-MNR	O
+
+
+`` Oh .
+0	0	0
+	O	O	O
+
+
+Well , we 're taking a little vacation , that 's all '' .
+0	0	0	0	1	0	0	0	0	0	0	0	0	0
+take	O	O	B-A0	O	B-V	B-A1	I-A1	I-A1	O	O	O	O	O	O
+
+
+He turned unsmilingly to Rachel .
+0	1	0	0	0	0
+turn	B-A1	B-V	B-AM-MNR	B-AM-DIR	I-AM-DIR	O
+
+
+`` I think by the end of next week he could get out in the air a little .
+0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+think	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+get	O	O	O	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	B-A1	B-AM-MOD	B-V	I-V	B-AM-LOC	I-AM-LOC	I-AM-LOC	B-AM-ADV	I-AM-ADV	O
+
+
+He could now but the weakness is very definite ; ; it would exhaust him further and unnecessarily .
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+exhaust	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-AM-MOD	B-V	B-A1	B-AM-ADV	I-AM-ADV	I-AM-ADV	O
+
+
+He 'll be stronger soon '' .
+0	0	0	0	0	0	0
+	O	O	O	O	O	O	O
+
+
+His stethoscope was on the table by Scotty 's bed and he picked it up and wagged it at Scotty .
+0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+pick	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	B-C-V	O	O	O	O	O	O
+wag	O	O	O	O	O	O	O	O	O	O	O	B-A0	O	O	O	O	B-V	B-A1	B-AM-DIR	I-AM-DIR	O
+
+
+He said fussily , `` Just keep the cap on those strong emotions '' .
+0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+say	B-A0	B-V	B-AM-MNR	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O
+keep	O	O	O	O	O	B-AM-ADV	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O
+
+
+The stethoscope glinted silver in the darkening room .
+0	0	1	0	0	0	1	0	0
+glint	B-A0	I-A0	B-V	B-AM-ADV	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O
+darken	O	O	O	O	O	O	B-V	B-A1	O
+
+
+`` I 'll drop by again in a few days '' .
+0	0	0	1	0	0	0	0	0	0	0	0
+drop	O	B-A1	B-AM-MOD	B-V	I-V	B-AM-TMP	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O	O
+
+
+Rachel stayed on after the doctor had gone .
+0	1	0	0	0	0	0	1	0
+stay	B-A1	B-V	I-V	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O
+go	O	O	O	O	B-A0	I-A0	O	B-V	O
+
+
+She smoothed the covers on Scotty 's bed and picked things up from the floor .
+0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+smooth	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O	O
+pick	B-A0	O	O	O	O	O	O	O	O	B-V	B-A1	B-C-V	B-AM-ADV	I-AM-ADV	I-AM-ADV	O
+
+
+She did not touch him .
+0	0	0	1	0	0
+touch	B-A0	O	B-AM-NEG	B-V	B-A1	O
+
+
+Scotty watched with disinterest .
+0	1	0	0	0
+watch	B-A0	B-V	B-AM-MNR	I-AM-MNR	O
+
+
+He did not speak .
+0	0	0	1	0
+speak	B-A0	O	B-AM-NEG	B-V	O
+
+
+He had no desire to .
+0	1	0	0	0	0
+have	B-A0	B-V	B-A1	I-A1	I-A1	O
+
+
+She said , `` Do you think you 'll miss school '' ? ?
+0	1	0	0	0	0	1	0	0	1	0	0	0	0
+say	B-A0	B-V	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	O
+think	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	O	O	O
+miss	O	O	O	O	O	O	O	B-A0	B-AM-MOD	B-V	B-A1	O	O	O
+
+
+He had noticed how formal and irritably exact Rachel had grown .
+0	0	1	0	0	0	0	0	0	0	1	0
+notice	B-A0	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+grow	O	O	O	B-A2	I-A2	I-A2	I-A2	I-A2	B-A1	O	B-V	O
+
+
+He did not care .
+0	0	0	0	0
+	O	O	O	O	O
+
+
+He felt her irritability did not concern him , yet he knew he would not care even if it did .
+0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0
+feel	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O
+concern	O	O	B-A0	I-A0	O	B-AM-NEG	B-V	B-A1	O	O	O	O	O	O	O	O	O	O	O	O	O
+know	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+care	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-AM-MOD	B-AM-NEG	B-V	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+
+
+He shook his head .
+0	1	0	0	0
+shake	B-A0	B-V	B-A1	I-A1	O
+
+
+`` We 've had any number of calls about you .
+0	0	0	1	0	0	0	0	0	0	0
+have	O	B-A0	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+You could win a popularity contest at that school without any trouble .
+0	0	1	0	0	0	0	0	0	0	0	0	0
+win	B-A0	B-AM-MOD	B-V	B-A1	I-A1	I-A1	B-AM-LOC	I-AM-LOC	I-AM-LOC	B-AM-MNR	I-AM-MNR	I-AM-MNR	O
+
+
+Miss Estherson called twice .
+0	0	1	0	0
+call	B-A0	I-A0	B-V	B-AM-TMP	O
+
+
+She wants to pay you a visit .
+0	1	0	1	0	0	0	0
+want	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	O
+pay	B-A0	O	O	B-V	B-A2	B-A1	I-A1	O
+
+
+She says the children miss you .
+0	1	0	0	1	0	0
+say	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	O
+miss	O	O	B-A0	I-A0	B-V	B-A1	O
+
+
+Apparently you were the light of their lives '' .
+0	0	0	0	0	0	0	0	0	0
+	O	O	O	O	O	O	O	O	O	O
+
+
+Scotty shrugged slightly .
+0	1	0	0
+shrug	B-A0	B-V	B-AM-MNR	O
+
+
+Rachel came close to the bed , bent as if she would kiss him , then moved away .
+0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0
+come	B-A1	B-V	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O	O	O	O	O	O	O	O	O	O	O	O	O
+bend	B-A0	O	O	O	O	O	O	B-V	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O	O	O	O	O
+kiss	O	O	O	O	O	O	O	O	O	O	B-A0	B-AM-MOD	B-V	B-A1	O	O	O	O	O
+move	B-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-AM-TMP	B-V	B-A2	O
+
+
+She was frowning .
+0	0	1	0
+frown	B-A0	O	B-V	O
+
+
+`` That doctor annoys me '' .
+0	0	0	1	0	0	0
+annoy	O	B-A0	I-A0	B-V	B-A1	O	O
+
+
+She seemed to speak to herself .
+0	1	0	1	0	0	0
+seem	B-A1	B-V	B-C-A1	I-C-A1	I-C-A1	I-C-A1	O
+speak	B-A0	O	O	B-V	B-A2	I-A2	O
+
+
+`` Do you suppose his self-consciousness is characteristic of the new Negro professionals or merely of doctors in general '' ? ?
+0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+suppose	O	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	O
+
+
+She turned to him again .
+0	1	0	0	0	0
+turn	B-A1	B-V	B-AM-DIR	I-AM-DIR	B-AM-TMP	O
+
+
+`` Well , Mrs. Charles -- Sally -- has phoned too .
+0	0	0	0	0	0	0	0	0	1	0	0
+phone	O	B-AM-DIS	O	B-A0	I-A0	I-A0	I-A0	I-A0	O	B-V	B-AM-DIS	O
+
+
+She was very worried '' .
+0	0	0	1	0	0
+worry	B-A1	O	B-AM-MNR	B-V	O	O
+
+
+Rachel 's tone was dry .
+0	0	0	0	0	0
+	O	O	O	O	O	O
+
+
+`` She did n't really say '' -- She glanced away at the floor , then swooped gracefully and picked up one of Scotty 's slippers .
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+say	O	B-A0	O	B-AM-NEG	B-AM-ADV	B-V	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+glance	O	O	O	O	O	O	O	O	B-A0	B-V	B-AM-DIR	B-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O
+swoop	O	O	O	O	O	O	O	O	B-A0	O	O	O	O	O	O	B-AM-DIS	B-V	B-AM-MNR	O	O	O	O	O	O	O	O	O
+pick	O	O	O	O	O	O	O	O	B-A0	O	O	O	O	O	O	O	O	O	O	B-V	I-V	B-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+`` I mean , do you feel like seeing Kate '' ? ?
+0	0	1	0	0	0	1	0	1	0	0	0	0
+mean	O	B-A0	B-V	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	O
+feel	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	I-A1	O	O	O
+see	O	O	O	O	O	B-A0	O	O	B-V	B-A1	O	O	O
+
+
+Scotty said , `` I do n't know '' .
+0	1	0	0	0	0	0	1	0	0
+say	B-A0	B-V	O	O	B-A1	I-A1	I-A1	I-A1	O	O
+know	O	O	O	O	B-A0	O	B-AM-NEG	B-V	O	O
+
+
+It was true .
+0	0	0	0
+	O	O	O	O
+
+
+He did not .
+0	0	0	0
+	O	O	O	O
+
+
+There was the slight pain , but it was no different from the throbbing in his head .
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+
+`` Well , there 's time , in any case .
+0	0	0	0	0	0	0	0	0	0	0
+	O	O	O	O	O	O	O	O	O	O	O
+
+
+We 'll wait till you 're stronger and then talk about it '' .
+0	0	1	0	0	0	0	0	0	1	0	0	0	0
+wait	B-A1	B-AM-MOD	B-V	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O	O	O	O	O	O	O
+talk	B-A0	B-AM-MOD	O	O	O	O	O	O	B-AM-TMP	B-V	B-A1	I-A1	O	O
+
+
+She put the slipper neatly by its mate at the foot of the bed .
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+put	B-A0	B-V	B-A1	I-A1	B-AM-MNR	B-A2	I-A2	I-A2	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O
+
+
+Scotty said , `` Okay '' .
+0	1	0	0	0	0	0
+say	B-A0	B-V	O	O	B-A1	O	O
+
+
+This time Rachel kissed him lightly on the forehead .
+0	0	0	1	0	0	0	0	0	0
+kiss	B-AM-TMP	I-AM-TMP	B-A0	B-V	B-A1	B-AM-MNR	B-AM-LOC	I-AM-LOC	I-AM-LOC	O
+
+
+Scotty was pleased .
+0	0	1	0
+please	B-A1	O	B-V	O
+
+
+His father was a constant visitor .
+0	0	0	0	0	0	0
+	O	O	O	O	O	O	O
+
+
+Scotty would hear the front door in the evening and then his father 's deep slow voice ; ; it floated up the stairs .
+0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+hear	B-A0	B-AM-MOD	B-V	B-A1	I-A1	I-A1	B-AM-TMP	I-AM-TMP	I-AM-TMP	B-AM-DIS	I-AM-DIS	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O	O
+float	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	B-V	B-AM-DIR	I-AM-DIR	I-AM-DIR	O
+
+
+`` How 's Scotty '' ? ?
+0	0	0	0	0	0	0
+	O	O	O	O	O	O	O
+
+
+And Rachel 's or Virginia 's reply : `` better .
+0	0	0	0	0	0	0	0	0	0	0
+	O	O	O	O	O	O	O	O	O	O	O
+
+
+He 's getting plenty of rest '' .
+0	0	1	0	0	0	0	0
+get	B-A0	O	B-V	B-A1	I-A1	I-A1	O	O
+
+
+`` Is his appetite improved '' ? ?
+0	0	0	0	1	0	0	0
+improve	O	O	B-A1	I-A1	B-V	O	O	O
+
+
+Or : `` Does he get exercise '' ? ?
+0	0	0	0	0	1	0	0	0	0
+get	O	O	O	O	B-A0	B-V	B-A1	O	O	O
+
+
+The exchange was almost invariable , and Scotty , in his bed , could hear every word of it .
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+hear	O	O	O	O	O	O	O	B-A0	O	B-AM-LOC	I-AM-LOC	I-AM-LOC	O	B-AM-MOD	B-V	B-A1	I-A1	I-A1	I-A1	O
+
+
+He never smiled .
+0	0	1	0
+smile	B-A0	B-AM-NEG	B-V	O
+
+
+It required an energy he no longer possessed to be satirical about his father .
+0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+require	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	O
+possess	O	O	B-A1	I-A1	B-A0	B-AM-TMP	I-AM-TMP	B-V	O	O	O	O	O	O	O
+
+
+His father would come upstairs and stand self-consciously at the foot of the bed and look at his son .
+0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+come	B-A1	I-A1	B-AM-MOD	B-V	B-A4	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+stand	B-A1	I-A1	B-AM-MOD	O	O	O	B-V	B-AM-MNR	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	O	O	O	O	O	O
+
+
+After a pause , during which he studied Scotty 's face as if Scotty were not there and could not study him too , Mr. McKinley would ask the same questions he had asked downstairs .
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0
+study	O	B-AM-TMP	I-AM-TMP	O	B-R-AM-TMP	I-R-AM-TMP	B-A0	B-V	B-A1	I-A1	I-A1	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	O	O	O	O	O	O	O	O	O	O	O	O
+study	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	O	O	O	O	B-AM-MOD	B-AM-NEG	B-V	B-A1	B-AM-ADV	O	O	O	O	O	O	O	O	O	O	O	O	O
+ask	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O	B-A0	I-A0	B-AM-MOD	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+ask	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	I-A1	B-A0	O	B-V	B-AM-LOC	O
+
+
+Scotty would reply softly and his father , apologetically , would ask him to repeat .
+0	0	1	0	0	0	0	0	0	0	0	1	0	0	1	0
+reply	B-A0	B-AM-MOD	B-V	B-AM-MNR	O	O	O	O	O	O	O	O	O	O	O	O
+ask	O	O	O	O	O	B-A0	I-A0	O	B-AM-MNR	O	B-AM-MOD	B-V	B-A2	B-A1	I-A1	O
+repeat	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	O	B-V	O
+
+
+`` I 'm eating more '' , he would say .
+0	0	0	1	0	0	0	0	0	1	0
+eat	O	B-A0	O	B-V	B-A1	O	O	O	O	O	O
+say	O	B-A1	I-A1	I-A1	I-A1	O	O	B-A0	B-AM-MOD	B-V	O
+
+
+Or : `` I walk around the house a lot '' .
+0	0	0	0	1	0	0	0	0	0	0	0
+walk	O	O	O	B-A0	B-V	B-AM-LOC	I-AM-LOC	I-AM-LOC	B-AM-EXT	I-AM-EXT	O	O
+
+
+`` Perhaps you should get out a little '' .
+0	0	0	0	1	0	0	0	0	0
+get	O	B-AM-ADV	B-A1	B-AM-MOD	B-V	B-AM-LOC	B-AM-ADV	I-AM-ADV	O	O
+
+
+`` I 'm not supposed to yet '' .
+0	0	0	0	1	0	0	0	0
+suppose	O	B-A1	O	B-AM-NEG	B-V	B-A2	B-AM-TMP	O	O
+
+
+He was not irritated .
+0	0	0	1	0
+irritate	B-A1	O	B-AM-NEG	B-V	O
+
+
+He did not mind the useless , kindly questions .
+0	0	0	0	0	0	0	0	0	0
+	O	O	O	O	O	O	O	O	O	O
+
+
+He looked at the lined face with vague interest ; ; he felt he was noting it , as if it were something he might think about when he grew stronger .
+0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0
+look	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	B-AM-MNR	I-AM-MNR	I-AM-MNR	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+line	O	O	O	O	B-V	B-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+feel	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+note	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	O	B-V	B-A1	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+think	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-AM-MOD	B-V	B-A2	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O
+grow	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-R-AM-TMP	B-A1	B-V	B-A2	O
+
+
+Mr. McKinley examined everything with critical care , seeking something material to blame for his son 's illness .
+0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0
+examine	B-A0	I-A0	B-V	B-A1	B-AM-MNR	I-AM-MNR	I-AM-MNR	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+seek	B-A0	I-A0	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+blame	B-A0	I-A0	O	O	O	O	O	O	O	B-A1	O	O	B-V	B-A2	I-A2	I-A2	I-A2	I-A2	O
+
+
+`` Have you got enough blankets '' ? ?
+0	0	0	1	0	0	0	0	0
+get	O	O	B-A0	B-V	B-A1	I-A1	O	O	O
+
+
+And another time , without accusation : `` You never wore that scarf I bought you '' .
+0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0
+wear	O	O	O	O	O	O	O	O	B-A0	B-AM-NEG	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	O	O
+buy	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	B-A0	B-V	B-A4	O	O
+
+
+Where their sharp edges seemed restless as sea waves thrusting themselves upward in angry motion , Papa-san sat glacier-like , his smooth solidity , his very immobility defying all the turmoil about him .
+0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+seem	B-R-AM-LOC	B-A1	I-A1	I-A1	B-V	B-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+sit	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	O	B-A1	B-V	B-AM-MNR	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+defy	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+`` Our objective '' , the colonel had said that day of the briefing , `` is Papa-san '' .
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+
+There the objective sat , brooding over all .
+0	0	0	1	0	1	0	0	0
+sit	B-A2	B-A1	I-A1	B-V	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	O
+brood	O	B-A0	I-A0	O	O	B-V	B-A1	I-A1	O
+
+
+Gouge , burn , blast , insult it as they would , could anyone really take Papa-san ? ?
+1	0	1	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+gouge	B-V	O	O	O	O	O	O	B-A1	B-AM-ADV	I-AM-ADV	I-AM-ADV	O	O	O	O	O	O	O	O
+burn	O	O	B-V	O	O	O	O	B-A1	B-AM-MNR	I-AM-MNR	I-AM-MNR	O	O	O	O	O	O	O	O
+blast	O	O	O	O	B-V	O	O	B-A1	B-AM-ADV	I-AM-ADV	I-AM-ADV	O	O	O	O	O	O	O	O
+insult	O	O	O	O	O	O	B-V	B-A1	B-AM-ADV	I-AM-ADV	I-AM-ADV	O	O	O	O	O	O	O	O
+take	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-AM-MOD	B-A0	B-AM-ADV	B-V	B-A1	O	O
+
+
+Between the ponderous hulk and himself , in the valley over which Papa-san reigned , men had hidden high explosives , booby traps , and mines .
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0
+reign	O	O	O	O	O	O	O	O	B-A1	I-A1	B-R-A1	I-R-A1	B-A0	B-V	O	O	O	O	O	O	O	O	O	O	O	O	O
+hide	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O	B-A0	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+The raped valley was a pregnant womb awaiting abortion .
+0	1	0	0	0	0	0	1	0	0
+rape	O	B-V	B-A1	O	O	O	O	O	O	O
+await	O	O	O	O	B-A1	I-A1	I-A1	B-V	B-A2	O
+
+
+On the forward slope in front of his own post stretched two rows of barbed wire .
+0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+stretch	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+At the slope 's base coils of concertina stretched out of eye range like a wild tangle of children 's hoops , stopped simultaneously , weirdly poised as if awaiting the magic of the child 's touch to start them all rolling again .
+0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+stretch	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	B-A1	I-A1	I-A1	B-V	B-A2	I-A2	I-A2	I-A2	B-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	O
+stop	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	I-A1	O	B-V	B-AM-MNR	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+await	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	B-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	O
+start	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	O	B-V	B-A1	I-A1	I-A1	B-AM-TMP	O
+roll	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	B-V	B-AM-TMP	O
+
+
+Closer still , regular barricades of barbed wire hung on timber supports .
+0	0	0	0	0	0	0	0	1	0	0	0	0
+hang	B-AM-LOC	I-AM-LOC	O	B-A1	I-A1	I-A1	I-A1	I-A1	B-V	B-A2	I-A2	I-A2	O
+
+
+Was it all vain labor ? ?
+0	0	0	0	0	0	0
+	O	O	O	O	O	O	O
+
+
+Who would clean up the mess when the war was over ? ?
+0	0	1	0	0	0	0	0	0	0	0	0	0
+clean	B-R-A0	B-AM-MOD	B-V	I-V	B-A1	I-A1	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O	O
+
+
+Smiling at his quixotic thoughts , Warren turned back from the opening and lit a cigarette before sitting down .
+1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0
+smile	B-V	B-A2	I-A2	I-A2	I-A2	O	B-A0	O	O	O	O	O	O	O	O	O	O	O	O	O
+turn	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-A1	B-V	B-AM-DIR	B-AM-DIR	I-AM-DIR	I-AM-DIR	O	O	O	O	O	O	O	O
+light	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-A0	O	O	O	O	O	O	B-V	B-A1	I-A1	B-AM-TMP	I-AM-TMP	I-AM-TMP	O
+sit	O	O	O	O	O	O	B-A1	O	O	O	O	O	O	O	O	O	O	B-V	I-V	O
+
+
+Tonight a group of men , tomorrow night he himself , would go out there somewhere and wait .
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+wait	B-AM-TMP	B-A1	I-A1	I-A1	I-A1	O	B-AM-TMP	I-AM-TMP	B-A1	I-A1	O	B-AM-MOD	O	O	O	O	O	B-V	O
+
+
+If he were to go with White , he would be out there two days , not just listening in the dark at some point between here and Papa-san , but moving ever deeper into enemy land -- behind Papa-san -- itself .
+0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+go	O	B-A0	O	O	B-V	B-AM-MNR	I-AM-MNR	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+listen	O	O	O	O	O	O	O	O	B-A0	O	O	O	O	O	O	O	B-AM-NEG	B-AM-ADV	B-V	B-AM-LOC	I-AM-LOC	I-AM-LOC	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+move	O	O	O	O	O	O	O	O	B-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-AM-ADV	I-AM-ADV	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	O
+
+
+Was this what he had expected ? ?
+0	0	0	0	0	1	0	0
+expect	O	O	B-R-A1	B-A0	O	B-V	O	O
+
+
+He had n't realized that there would be so much time to think , so many lulls .
+0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+realize	B-A0	O	B-AM-NEG	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+think	O	O	O	O	O	O	O	O	B-AM-TMP	I-AM-TMP	I-AM-TMP	O	B-V	O	O	O	O	O
+
+
+Somehow he had forgotten what he must have been told , that combat was an intermittent activity .
+0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+forget	B-AM-MNR	B-A0	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+tell	O	O	O	O	B-R-A1	B-A2	B-AM-MOD	O	O	B-V	O	O	O	O	O	O	O	O
+
+
+Now he knew that the moment illuminated by the vision on the train would have to be approached .
+0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0
+know	B-AM-TMP	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+illuminate	O	O	O	O	B-A1	I-A1	B-V	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	O	O	O	O	O	O
+approach	O	O	O	O	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	O	O	O	O	B-V	O
+
+
+It could take place tomorrow night , or it might occur months from now .
+0	0	1	0	0	0	0	0	0	0	1	0	0	0	0
+take	B-A1	B-AM-MOD	B-V	B-A2	B-AM-TMP	I-AM-TMP	O	O	O	O	O	O	O	O	O
+occur	O	O	O	O	O	O	O	O	B-A1	B-AM-MOD	B-V	B-AM-TMP	I-AM-TMP	I-AM-TMP	O
+
+
+There was just too much time .
+0	0	0	0	0	0	0
+	O	O	O	O	O	O	O
+
+
+Time to become afraid .
+0	0	1	0	0
+become	B-AM-TMP	O	B-V	B-A2	O
+
+
+White 's suggestion flattered , but he did not like the identity .
+0	0	0	1	0	0	0	0	0	1	0	0	0
+flatter	B-A0	I-A0	I-A0	B-V	O	O	O	O	O	O	O	O	O
+like	O	O	O	O	O	O	B-A0	O	B-AM-NEG	B-V	B-A1	I-A1	O
+
+
+He did not spill over with hatred for the enemy .
+0	0	0	1	0	0	0	0	0	0	0
+spill	B-A1	O	B-AM-NEG	B-V	I-V	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+
+
+He had n't even seen him yet Pressing his cigarette out in the earth , Warren walked to the slit and scanned the jagged hills .
+0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+see	B-A0	O	B-AM-NEG	B-AM-ADV	B-V	B-A1	B-AM-TMP	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+press	O	O	O	O	O	O	O	B-V	B-A1	I-A1	B-A2	B-AM-LOC	I-AM-LOC	I-AM-LOC	O	B-A0	O	O	O	O	O	O	O	O	O	O
+walk	O	O	O	O	O	O	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-A0	B-V	B-AM-DIR	I-AM-DIR	I-AM-DIR	O	O	O	O	O	O
+scan	O	O	O	O	O	O	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-A0	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	O
+
+
+He saw no life , but still stood there for a time peering at the unlovely hills , his gaze continually returning to Papa-san .
+0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+see	B-A0	B-V	B-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+stand	B-A0	O	O	O	O	O	O	B-V	B-A2	B-AM-TMP	I-AM-TMP	I-AM-TMP	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+peer	B-A0	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O	O
+return	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	B-AM-ADV	B-V	B-A4	I-A4	O
+
+
+He had come here in order to test himself .
+0	0	1	0	0	0	0	1	0	0
+come	B-A1	O	B-V	B-A4	B-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	O
+test	B-A0	O	O	O	O	O	O	B-V	B-A1	O
+
+
+While most of his beliefs were still unsettled , he knew that he did not believe in killing .
+0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0
+unsettle	O	B-A1	I-A1	I-A1	I-A1	O	B-AM-TMP	B-V	O	O	O	O	O	O	O	O	O	O	O
+know	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+believe	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	O	B-AM-NEG	B-V	B-A1	I-A1	O
+
+
+Yet , he was here .
+0	0	0	0	0	0
+	O	O	O	O	O	O
+
+
+He had come because he could not live out his life feeling that he had been a coward .
+0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0
+come	B-A1	O	B-V	B-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	O
+live	O	O	O	O	B-A0	B-AM-MOD	B-AM-NEG	B-V	I-V	B-A1	I-A1	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+feel	O	O	O	O	B-A0	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+There were ten men on the patrol which Sergeant Prevot led out that next night .
+0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+lead	O	O	O	O	O	B-A1	I-A1	B-R-A1	B-A0	I-A0	B-V	B-AM-DIR	B-AM-TMP	I-AM-TMP	I-AM-TMP	O
+
+
+The beaming ROK was carrying a thirty-caliber machine gun ; ; another man lugged the tripod and a box of ammunition .
+0	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+beam	O	B-V	B-A0	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+carry	B-A0	I-A0	I-A0	O	B-V	B-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O
+lug	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+Warren and White each carried , in addition to their own weapons and ammo , a box of ammo for the ROK 's machine gun .
+0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+carry	B-A0	I-A0	I-A0	I-A0	B-V	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+Others carried extra clips for the Browning Automatic Rifle , which was in the hands of a little Mexican named Martinez .
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+carry	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+name	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	I-A1	B-V	B-A2	O
+
+
+Prevot had briefed the two new men that afternoon .
+0	0	1	0	0	0	0	0	0	0
+brief	B-A0	O	B-V	B-A1	I-A1	I-A1	I-A1	B-AM-TMP	I-AM-TMP	O
+
+
+`` We just sit quiet and wait '' , Prevot had said .
+0	0	0	1	0	0	1	0	0	0	0	1	0
+sit	O	B-A1	B-AM-ADV	B-V	B-AM-MNR	O	O	O	O	O	O	O	O
+wait	O	B-A1	B-AM-ADV	O	O	O	B-V	O	O	O	O	O	O
+say	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	B-A0	O	B-V	O
+
+
+`` Be sure the man nearest you is awake .
+0	0	0	0	0	0	0	0	0	0
+	O	O	O	O	O	O	O	O	O	O
+
+
+If Joe does n't show up , we 'll all be back here at 0600 hours .
+0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+show	O	B-A1	O	B-AM-NEG	B-V	I-V	O	O	O	O	O	O	O	O	O	O	O
+
+
+Otherwise , we hold a reception .
+0	0	0	1	0	0	0
+hold	B-AM-DIS	O	B-A0	B-V	B-A1	I-A1	O
+
+
+Then we pull out under our mortar and artillery cover , but nobody pulls out until I say so .
+0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0
+pull	B-AM-TMP	B-A1	B-V	I-V	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	O	O	O	O	O	O	O	O	O	O
+pull	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	B-V	I-V	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O
+say	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	O
+
+
+Remember what I said about going out to get anybody left behind ? ?
+1	0	0	1	0	1	0	0	1	0	1	0	0	0
+remember	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O
+say	O	B-R-A1	B-A0	B-V	B-A3	I-A3	I-A3	I-A3	I-A3	I-A3	I-A3	I-A3	O	O
+go	O	O	O	O	O	B-V	B-AM-DIR	B-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	O	O
+get	O	O	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	O	O
+leave	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-AM-ADV	O	O
+
+
+That still holds .
+0	0	1	0
+hold	B-A1	B-AM-TMP	B-V	O
+
+
+We bring back all dead and wounded '' .
+0	1	0	0	0	0	0	0	0
+bring	B-A0	B-V	B-AM-DIR	B-A1	I-A1	I-A1	I-A1	O	O
+
+
+At 2130 hours they had passed through the barbed wire at the point of departure .
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+pass	B-AM-TMP	I-AM-TMP	I-AM-TMP	B-A1	O	B-V	B-AM-DIR	I-AM-DIR	I-AM-DIR	I-AM-DIR	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O
+
+
+Then began the journey through their own mine fields .
+0	1	0	0	0	0	0	0	0	0
+begin	B-AM-TMP	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+Mines .
+0	0
+	O	O
+
+
+Ours were kinder than theirs , some said .
+0	0	0	0	0	0	0	1	0
+say	B-A1	I-A1	I-A1	I-A1	I-A1	O	B-A0	B-V	O
+
+
+They set bouncing betties to jump and explode at testicle level while we more mercifully had them go off at the head .
+0	1	1	0	0	1	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0
+set	B-A0	B-V	B-A1	I-A1	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+bounce	O	O	B-V	B-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+jump	O	O	B-A0	I-A0	O	B-V	O	O	B-AM-LOC	I-AM-LOC	I-AM-LOC	O	O	O	O	O	O	O	O	O	O	O	O
+explode	O	O	B-A1	I-A1	O	O	O	B-V	B-AM-LOC	I-AM-LOC	I-AM-LOC	O	O	O	O	O	O	O	O	O	O	O	O
+have	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-AM-MNR	I-AM-MNR	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+go	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	B-V	I-V	B-AM-LOC	I-AM-LOC	I-AM-LOC	O
+
+
+Mines .
+0	0
+	O	O
+
+
+Big ones and little .
+0	0	0	0	0
+	O	O	O	O	O
+
+
+The crude wooden boxes of the enemy , our nicely turned gray metal disks .
+0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+turn	O	O	O	O	O	O	O	O	O	B-AM-MNR	B-V	B-A1	I-A1	I-A1	O
+
+
+But theirs defied the detectors .
+0	0	1	0	0	0
+defy	B-AM-DIS	B-A0	B-V	B-A1	I-A1	O
+
+
+Mines .
+0	0
+	O	O
+
+
+A foot misplaced , a leg missing .
+0	0	1	0	0	0	1	0
+misplace	B-A1	I-A1	B-V	O	O	O	O	O
+miss	O	O	O	O	B-A1	I-A1	B-V	O
+
+
+Mines .
+0	0
+	O	O
+
+
+All sizes : big ones , some wired to set off a whole field , little ones , hand grenade size .
+0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+wire	O	O	O	O	O	O	B-A1	B-V	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	O	O	O	O	O	O	O	O
+set	O	O	O	B-A0	I-A0	O	O	O	O	B-V	I-V	B-A1	I-A1	I-A1	O	O	O	O	O	O	O	O
+
+
+Booby traps to fill the head with chunks of metal .
+0	0	0	1	0	0	0	0	0	0	0
+fill	B-A0	I-A0	O	B-V	B-A1	I-A1	B-A2	I-A2	I-A2	I-A2	O
+
+
+Warren tried to shake off the jumble of his fears by looking at the sky .
+0	1	0	1	0	0	0	0	0	0	0	1	0	0	0	0
+try	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O
+shake	B-A0	O	O	B-V	I-V	B-A1	I-A1	I-A1	I-A1	I-A1	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+look	B-A0	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	O
+
+
+It was dark .
+0	0	0	0
+	O	O	O	O
+
+
+Prevot had said that the searchlights would be bounced off the clouds at 2230 hours , `` which gives us time to get settled in position '' .
+0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	0	0
+say	B-A0	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+bounce	O	O	O	O	B-A1	I-A1	B-AM-MOD	O	B-V	B-AM-ADV	I-AM-ADV	I-AM-ADV	B-AM-TMP	I-AM-TMP	I-AM-TMP	O	O	O	O	O	O	O	O	O	O	O	O	O
+give	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-R-A0	B-V	B-A2	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O
+get	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	O	O	B-V	B-A2	I-A2	I-A2	O	O
+settle	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	O	O	O	B-V	B-AM-LOC	I-AM-LOC	O	O
+
+
+Because they were new men and to be sure that they did n't get lost , Prevot had placed Warren and White in the center of the patrol as it filed out .
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+get	O	O	O	O	O	O	O	O	O	O	B-A1	O	B-AM-NEG	B-V	B-A2	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+lose	O	O	O	O	O	O	O	O	O	O	B-A1	O	B-AM-NEG	O	B-V	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+place	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-A0	O	B-V	B-A1	I-A1	I-A1	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O
+file	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-AM-DIR	O
+
+
+His eyes now fixed on White 's solid figure , Warren could hear behind him the tread of another .
+0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+fix	B-A1	I-A1	B-AM-TMP	B-V	B-A2	I-A2	I-A2	I-A2	I-A2	O	O	O	O	O	O	O	O	O	O	O
+hear	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-A0	B-AM-MOD	B-V	B-AM-LOC	I-AM-LOC	B-A1	I-A1	I-A1	I-A1	O
+
+
+He could also hear the stream which he had seen from his position .
+0	0	0	1	0	0	0	0	0	1	0	0	0	0
+hear	B-A0	B-AM-MOD	B-AM-ADV	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+see	O	O	O	O	B-A1	I-A1	B-R-A1	B-A0	O	B-V	B-AM-LOC	I-AM-LOC	I-AM-LOC	O
+
+
+They were going to follow it for part of their journey .
+0	0	0	0	1	0	0	0	0	0	0	0
+follow	B-A0	O	O	O	B-V	B-A2	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+
+
+`` It 's safe '' , Prevot had said , `` and it provides cover for our noise '' .
+0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0
+say	O	B-A1	I-A1	I-A1	O	O	B-A0	O	B-V	O	O	B-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	O	O
+provide	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	B-A2	I-A2	I-A2	O	O
+
+
+Soon they were picking their way along the edge of the stream which glowed in the night .
+0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+pick	B-AM-TMP	B-A0	O	B-V	B-A1	I-A1	B-AM-DIR	I-AM-DIR	I-AM-DIR	I-AM-DIR	I-AM-DIR	I-AM-DIR	I-AM-DIR	I-AM-DIR	I-AM-DIR	I-AM-DIR	I-AM-DIR	O
+glow	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	B-R-A0	B-V	B-A1	I-A1	I-A1	O
+
+
+On their right rose the embankment covered with brush and trees .
+0	0	0	1	0	0	1	0	0	0	0	0
+rise	B-AM-LOC	I-AM-LOC	I-AM-LOC	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+cover	O	O	O	O	B-A1	I-A1	B-V	B-A2	I-A2	I-A2	I-A2	O
+
+
+If a branch extended out too far , each man held it back for the next , and if they met a low overhang , each warned the other .
+0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+extend	O	B-A0	I-A0	B-V	B-AM-DIR	B-A2	I-A2	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+hold	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-A0	I-A0	B-V	B-A1	B-C-V	B-AM-ADV	I-AM-ADV	I-AM-ADV	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+meet	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	I-A1	O	O	O	O	O	O
+warn	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-A0	B-V	B-A2	I-A2	O
+
+
+Thus , stealthily they advanced upstream ; ; then they turned to the right , climbed the embankment , and walked into the valley again .
+0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0
+advance	O	O	B-AM-MNR	B-A1	B-V	B-A4	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+turn	O	O	O	O	O	O	O	O	B-AM-TMP	B-A1	B-V	B-AM-DIR	I-AM-DIR	I-AM-DIR	O	O	O	O	O	O	O	O	O	O	O	O
+climb	O	O	O	O	O	O	O	O	B-AM-TMP	B-A0	O	O	O	O	O	B-V	B-A1	I-A1	O	O	O	O	O	O	O	O
+walk	O	O	O	O	O	O	O	O	B-AM-TMP	B-A0	O	O	O	O	O	O	O	O	O	O	B-V	B-AM-DIR	I-AM-DIR	I-AM-DIR	B-AM-TMP	O
+
+
+There was no cover here , only grass sighing against pant-legs .
+0	0	0	0	0	0	0	0	1	0	0	0
+sigh	O	O	O	O	O	O	B-A0	I-A0	B-V	B-AM-ADV	I-AM-ADV	O
+
+
+And with each sigh , like a whip in the hand of an expert , the grass stripped something from Warren .
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+strip	B-AM-DIS	B-AM-TMP	I-AM-TMP	I-AM-TMP	O	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O	B-A0	I-A0	B-V	B-A1	B-A2	I-A2	O
+
+
+The gentle whir of each footstep left him more naked than before , until he felt his unprotected flesh tremble , chilled by each new sound .
+0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0
+leave	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	B-V	B-A1	B-A2	I-A2	I-A2	I-A2	O	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O
+feel	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+tremble	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	I-A1	B-V	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+chill	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	I-A1	O	O	B-V	B-A0	I-A0	I-A0	I-A0	O
+
+
+The shapes of the men ahead of him lacked solidity , as if the whip had stripped them of their very flesh .
+0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+lack	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	B-V	B-A1	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+strip	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	O	B-V	B-A2	B-A1	I-A1	I-A1	I-A1	O
+
+
+The dark forms moved like mourners on some nocturnal pilgrimage , their dirge unsung for want of vocal chords .
+0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+move	B-A1	I-A1	I-A1	B-V	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+
+
+The warped , broken trees in the valley assumed wraith-like shapes .
+0	0	0	0	0	0	0	0	1	0	0	0
+assume	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	B-V	B-A1	I-A1	O
+
+
+Clumps of brush that they passed were so many enchained demons straining in anger to tear and gnaw on his bones .
+0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0
+enchain	O	O	O	O	O	O	O	O	O	B-V	B-A1	O	O	O	O	O	O	O	O	O	O	O
+tear	O	O	O	O	O	O	O	B-A0	I-A0	I-A0	I-A0	O	O	O	O	B-V	O	O	O	B-A1	I-A1	O
+gnaw	O	O	O	O	O	O	O	B-A0	I-A0	I-A0	I-A0	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	O
+
+
+Looming over all , Papa-san leered down at him , threatening a hundred hidden malevolencies .
+0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0
+leer	B-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-A0	B-V	B-AM-DIR	B-A1	I-A1	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+threaten	O	O	O	O	B-A0	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	O
+hide	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	O
+
+
+Off in the distance a searchlight flashed on , its beam slashing the sky .
+0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+flash	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	B-A1	I-A1	B-V	B-AM-PRD	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+slash	O	O	O	O	O	O	O	O	O	B-A0	I-A0	B-V	B-A1	I-A1	O
+
+
+The sharp ray was absorbed by a cloud , then reflected to the earth in a softer , diffused radiance .
+0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0
+absorb	B-A1	I-A1	I-A1	O	B-V	B-A0	I-A0	I-A0	O	O	O	O	O	O	O	O	O	O	O	O	O
+reflect	B-A1	I-A1	I-A1	O	O	O	O	O	O	O	B-V	B-AM-DIR	I-AM-DIR	I-AM-DIR	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+diffuse	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	O
+
+
+Somewhere over there another patrol had need of light .
+0	0	0	0	0	1	0	0	0	0
+have	B-AM-LOC	I-AM-LOC	I-AM-LOC	B-A0	I-A0	B-V	B-A1	I-A1	I-A1	O
+
+
+Warren thought of all the men out that night who , like himself , had left their protective ridge and -- fear working at their guts -- picked their way into the area beyond .
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0
+think	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+leave	O	O	O	B-A0	I-A0	I-A0	O	O	O	B-R-A0	O	B-AM-ADV	I-AM-ADV	O	O	B-V	B-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+work	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-AM-ADV	I-AM-ADV	I-AM-ADV	O	O	O	O	O	O	O	O	O
+pick	O	O	O	B-A0	I-A0	I-A0	O	O	O	B-R-A0	O	B-AM-MNR	I-AM-MNR	O	O	O	O	O	O	O	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-V	B-A1	I-A1	B-AM-DIR	I-AM-DIR	I-AM-DIR	I-AM-DIR	O
+
+
+From the east to the west coast of the Korean peninsula was a strip of land in which fear-filled men were at that same moment furtively crawling through the night , sitting in sweaty anticipation of any movement or sound , or shouting amidst confused rifle flashes and muzzle blasts .
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+crawl	O	O	O	O	O	O	O	O	O	O	O	O	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	B-A0	I-A0	O	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	B-AM-MNR	B-V	B-AM-DIR	I-AM-DIR	I-AM-DIR	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+sit	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	O	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	B-AM-MNR	O	O	O	O	O	B-V	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O	O	O	O	O	O	O	O	O	O	O
+shout	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	O	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O
+
+
+White 's arm went up and Warren raised his own .
+0	0	0	1	0	0	0	1	0	0	0
+go	B-A1	I-A1	I-A1	B-V	B-AM-DIR	O	O	O	O	O	O
+raise	O	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	O
+
+
+The patrol was stopping .
+0	0	0	1	0
+stop	B-A1	I-A1	O	B-V	O
+
+
+Prevot came up .
+0	1	0	0
+come	B-A1	B-V	B-AM-DIR	O
+
+
+`` Take that spot over there '' , he whispered , pointing to a small clump of blackness .
+0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0
+take	O	B-V	B-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O
+whisper	O	B-A1	I-A1	I-A1	I-A1	I-A1	O	O	B-A0	B-V	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+point	O	O	O	O	O	O	O	O	B-A0	O	O	B-V	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	O
+
+
+`` Give me your machine gun ammo '' .
+0	1	0	0	0	0	0	0	0
+give	O	B-V	B-A2	B-A1	I-A1	I-A1	I-A1	O	O
+
+
+Warren handed him the metal box and Prevot quietly disappeared down the line .
+0	1	0	0	0	0	0	0	0	1	0	0	0	0
+hand	B-A0	B-V	B-A2	B-A1	I-A1	I-A1	O	O	O	O	O	O	O	O
+disappear	O	O	O	O	O	O	O	B-A1	B-AM-MNR	B-V	B-AM-DIR	I-AM-DIR	I-AM-DIR	O
+
+
+Lying in the grass behind the brush clump , Warren looked about .
+1	0	0	0	0	0	0	0	0	0	1	0	0
+lie	B-V	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	O	B-A1	O	O	O
+look	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-A0	B-V	I-V	O
+
+
+The others likewise had hidden themselves in the grass and the brush .
+0	0	0	0	1	0	0	0	0	0	0	0	0
+hide	B-A0	I-A0	B-AM-DIS	O	B-V	B-A1	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O
+
+
+Over his shoulder he could see Prevot with the machine gun crew .
+0	0	0	0	0	1	0	0	0	0	0	0	0
+see	B-AM-MNR	I-AM-MNR	I-AM-MNR	B-A0	B-AM-MOD	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+Even at this short distance they were only vague shapes , setting up the machine gun on a small knoll so that it could fire above the heads of the rest of the patrol .
+0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+set	O	O	O	O	O	B-A0	O	O	O	O	O	B-V	I-V	B-A1	I-A1	I-A1	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	B-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	O
+fire	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	B-AM-MOD	B-V	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O
+
+
+Warren eased his rifle 's safety off and gently , slowly sneaked another clip of ammunition from one of the cloth bandoleers that marked the upper part of his body with an A[fj] .
+0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+ease	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	B-A4	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+sneak	B-A0	O	O	O	O	O	O	O	B-AM-MNR	O	B-AM-MNR	B-V	B-A3	I-A3	I-A3	I-A3	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	O
+mark	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	I-A0	B-R-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	B-AM-ADV	I-AM-ADV	I-AM-ADV	O
+
+
+This he placed within quick reach .
+0	0	1	0	0	0	0
+place	B-A1	B-A0	B-V	B-A2	I-A2	I-A2	O
+
+
+The walk and his fears had served to overheat him and his sweaty armpits cooled at the touch of the night air .
+0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+serve	B-A0	I-A0	I-A0	I-A0	I-A0	O	B-V	B-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O
+overheat	B-A0	I-A0	I-A0	I-A0	I-A0	O	O	O	B-V	B-A1	O	O	O	O	O	O	O	O	O	O	O	O	O
+cool	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	I-A1	B-V	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+
+
+Although the armored vest fitted the upper part of his body snugly , he felt no security .
+0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+fit	O	B-A1	I-A1	I-A1	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	B-AM-MNR	O	O	O	O	O	O
+feel	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-A0	B-V	B-A1	I-A1	O
+
+
+Figures seemed to crouch in the surrounding dark ; ; in the distance he saw a band of men who seemed to advance and retreat even as he watched .
+0	1	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0
+seem	B-A1	B-V	B-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+crouch	B-A0	O	O	B-V	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+surround	O	O	O	O	O	O	B-V	B-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+see	O	O	O	O	O	O	O	O	O	O	B-AM-LOC	I-AM-LOC	I-AM-LOC	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+advance	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	B-R-A1	O	O	B-V	O	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+watch	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	O
+
+
+Certain this menace was only imaginary , he yet stared in fascinated horror , his hand sticky against the stock of his weapon .
+0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+stare	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-A0	B-AM-TMP	B-V	B-AM-MNR	I-AM-MNR	I-AM-MNR	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+
+
+He was aware of insistent inner beatings , as if prisoners within sought release from his rigid body .
+0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+seek	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+Above , the glowing ivory baton of their searchlight pointed at the clouds , diluting the valley 's dark to a pallid light .
+0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+glow	O	O	O	B-V	B-A0	I-A0	I-A0	I-A0	I-A0	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+point	B-AM-LOC	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	B-V	B-A2	I-A2	I-A2	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+dilute	O	O	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	B-A4	I-A4	I-A4	I-A4	O
+
+
+Then the figures which held his attention became a group of shattered trees , standing like the grotesques of a medieval damnation scene .
+0	0	0	0	1	0	0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0
+hold	O	B-A0	I-A0	B-R-A0	B-V	B-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+become	B-AM-DIS	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	B-V	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	O
+shatter	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	O	O	O	O	O	O	O	O	O	O	O
+stand	O	O	O	O	O	O	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	O	B-V	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O
+
+
+Even so , he could not ease the tension of his body ; ; the rough surface of the earth itself seemed to resist every attempt on his part to relax .
+0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0
+ease	B-AM-DIS	I-AM-DIS	O	B-A0	B-AM-MOD	B-AM-NEG	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+seem	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	B-V	B-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	O
+resist	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+Sensing the unseen presence of the other men in the patrol , he felt mutely united to these nine near-strangers sharing this pinpoint of being with him .
+1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0	0	0
+sense	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	B-A0	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+feel	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+unite	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	O	B-AM-MNR	B-V	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	O
+share	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	I-A0	B-V	B-A1	I-A1	I-A1	I-A1	B-A2	I-A2	O
+
+
+He sensed something precious in the perilous moment , something akin to the knowledge gained on his bicycle trip through the French countryside , a knowledge imprisoned in speechlessness .
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+sense	B-A0	B-V	B-A1	I-A1	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O	B-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	O
+gain	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	B-V	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	O	O	O	O	O	O
+imprison	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	B-V	B-AM-LOC	I-AM-LOC	O
+
+
+-- In France he had puzzled the meaning of the great stone monuments men had thrown up to the sky , and always as he wandered , he felt a stranger to their exultation .
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0
+puzzle	O	B-AM-LOC	I-AM-LOC	B-A1	O	B-V	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+throw	O	O	O	O	O	O	O	O	O	B-A1	I-A1	I-A1	I-A1	B-A0	O	B-V	B-AM-DIR	B-A2	I-A2	I-A2	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+wander	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	O	O	O	O	O	O	O	O	O
+feel	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-AM-TMP	B-AM-TMP	I-AM-TMP	I-AM-TMP	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+They were poems in a strange language , of which he could barely touch a meaning -- enough to make his being ache with the desire for the fullness he sensed there .
+0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0
+touch	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	O	B-C-A1	I-C-A1	B-A0	B-AM-MOD	B-AM-ADV	B-V	B-C-A1	I-C-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+make	O	O	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	O	O	O	B-V	B-A1	I-A1	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	O
+ache	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	B-V	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+sense	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	B-A0	B-V	B-AM-LOC	O
+
+
+Brittany , that stone-gray mystery through which he traveled for thirty days , sleeping in the barns of farmers or alongside roads , had worked some subtle change in him , he knew , and it was in Brittany that he had met Pierre .
+0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0
+travel	O	O	B-A1	I-A1	I-A1	B-R-A1	I-R-A1	B-A0	B-V	B-AM-TMP	I-AM-TMP	I-AM-TMP	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+sleep	O	O	O	O	O	O	O	B-A0	O	O	O	O	O	B-V	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+work	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	O	B-V	B-A1	I-A1	I-A1	B-AM-LOC	I-AM-LOC	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+know	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	B-A0	B-V	O	O	O	O	O	O	O	O	O	O	O	O
+meet	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-AM-LOC	I-AM-LOC	B-R-AM-LOC	B-A0	O	B-V	B-A1	O
+
+
+Pierre had no hands ; ; they had been severed at the wrists .
+0	1	0	0	0	0	0	0	0	1	0	0	0	0
+have	B-A0	B-V	B-A1	I-A1	O	O	O	O	O	O	O	O	O	O
+sever	O	O	O	O	O	O	B-A1	O	O	B-V	B-AM-LOC	I-AM-LOC	I-AM-LOC	O
+
+
+With leather cups fitted in his handlebars , he steered his bicycle .
+0	0	0	1	0	0	0	0	0	0	0	0	0
+fit	O	B-A1	I-A1	B-V	B-AM-LOC	I-AM-LOC	I-AM-LOC	O	O	O	O	O	O
+
+
+He and Warren had traveled together for four days .
+0	0	0	0	1	0	0	0	0	0
+travel	B-A0	I-A0	I-A0	O	B-V	B-AM-MNR	B-AM-TMP	I-AM-TMP	I-AM-TMP	O
+
+
+They visited the shipyards at Brest and Pierre had to sign the register , vouching for the integrity of the visiting foreigner .
+0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0
+visit	B-A0	B-V	B-A1	I-A1	B-AM-LOC	I-AM-LOC	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+sign	O	O	O	O	O	O	O	B-A0	O	O	B-V	B-A1	I-A1	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+vouch	O	O	O	O	O	O	O	B-A0	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+visit	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A0	O
+
+
+He took the pen in his stumps and began to write .
+0	1	0	0	0	0	0	0	1	0	1	0
+take	B-A0	B-V	B-A1	I-A1	B-A2	I-A2	I-A2	O	O	O	O	O
+begin	B-A0	O	O	O	O	O	O	O	B-V	B-A1	I-A1	O
+write	B-A0	O	O	O	O	O	O	O	O	O	B-V	O
+
+
+`` Wait ! ! Wait '' ! ! Cried the guard who ran from the hut to shout to other men standing about outside .
+0	1	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0
+wait	O	B-V	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+wait	O	O	O	O	B-V	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+cry	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	B-V	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	O
+run	O	O	O	O	O	O	O	O	O	B-A0	I-A0	B-R-A0	B-V	B-AM-DIR	I-AM-DIR	I-AM-DIR	B-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	O
+shout	O	O	O	O	O	O	O	O	O	B-A0	I-A0	B-R-A0	O	O	O	O	O	B-V	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	O
+stand	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	B-V	B-AM-LOC	B-A2	O
+
+
+They crowded the small room and peered over one another 's shoulders to watch the handless man write his name in the book .
+0	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0
+crowd	B-A0	B-V	B-A1	I-A1	I-A1	O	O	O	O	O	O	O	B-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	O
+peer	B-A0	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	B-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	O
+watch	B-A0	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+write	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	I-A0	B-V	B-A1	I-A1	B-AM-LOC	I-AM-LOC	I-AM-LOC	O
+
+
+`` C'est formidable '' , they exclaimed .
+0	0	0	0	0	0	1	0
+exclaim	O	B-A1	I-A1	O	O	B-A0	B-V	O
+
+
+`` Mais , oui .
+0	0	0	0	0
+	O	O	O	O	O
+
+
+C'est merveilleux '' .
+0	0	0	0
+	O	O	O	O
+
+
+And then the questions came , eager , interested questions , and many compliments on his having overcome his infirmity .
+0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+come	B-AM-DIS	I-AM-DIS	B-A1	I-A1	B-V	O	B-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	O
+overcome	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	O	B-V	B-A1	I-A1	O
+
+
+`` Does n't it ever bother you '' , Warren had asked , `` to have people always asking you about your hands '' ? ?
+0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+ask	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	B-A0	O	B-V	O	O	B-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	O	O	O
+have	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	O
+ask	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-AM-TMP	B-V	B-A2	B-A1	I-A1	I-A1	O	O	O
+
+
+`` Oh , the French are a very curious people '' , Pierre had laughed .
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+laugh	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	B-A0	O	B-V	O
+
+
+`` They are also honest seekers after truth .
+0	0	0	0	0	0	0	0	0
+	O	O	O	O	O	O	O	O	O
+
+
+Now the English are painfully silent about my missing hands .
+0	0	0	0	0	0	0	0	1	0	0
+miss	O	O	O	O	O	O	O	O	B-V	B-A1	O
+
+
+They refuse to mention or to notice that they are not there .
+0	1	0	1	0	0	1	0	0	0	0	0	0
+refuse	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+mention	B-A0	O	O	B-V	O	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	O
+notice	B-A0	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+The Americans , like yourself , take the fact for granted , try to be helpful , but do n't ask questions .
+0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	1	0	0
+take	B-A0	I-A0	O	B-AM-MNR	I-AM-MNR	O	B-V	B-A1	I-A1	B-A2	I-A2	O	O	O	O	O	O	O	O	O	O	O	O
+grant	O	O	O	O	O	O	O	B-A1	I-A1	O	B-V	O	O	O	O	O	O	O	O	O	O	O	O
+try	B-A0	I-A0	O	B-AM-ADV	I-AM-ADV	O	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	O	O	O	O	O	O	O
+ask	B-A0	I-A0	O	B-AM-MNR	I-AM-MNR	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-AM-NEG	B-V	B-A1	O
+
+
+I 'm used to all three , but I think the French have the healthiest attitude '' .
+0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0
+think	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O
+have	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	B-V	B-A1	I-A1	I-A1	O	O
+
+
+That was the day that Pierre had told Warren about the Abbey of Solesmes .
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+tell	O	O	B-AM-TMP	I-AM-TMP	B-R-AM-TMP	B-A0	O	B-V	B-A2	B-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+`` You are looking tired and there you can rest .
+0	0	0	1	0	0	0	0	0	1	0
+look	O	B-A0	O	B-V	B-A1	O	O	O	O	O	O
+rest	O	O	O	O	O	O	B-AM-LOC	B-A1	B-AM-MOD	B-V	O
+
+
+It will be good for you .
+0	0	0	0	0	0	0
+	O	O	O	O	O	O	O
+
+
+I think , too '' , he said , his dark eyes mischievous , `` that you will find there some clue to the secret of the cathedrals about which you have spoken '' .
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+think	B-A0	B-V	O	B-AM-ADV	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O
+find	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-AM-MOD	B-V	B-AM-LOC	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O
+speak	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	B-R-A1	I-R-A1	B-A0	O	B-V	O	O
+
+
+Within two weeks Warren was ringing the bell at the abbey gate .
+0	0	0	0	0	1	0	0	0	0	0	0	0
+ring	B-AM-TMP	I-AM-TMP	I-AM-TMP	B-A0	O	B-V	B-A1	I-A1	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O
+
+
+The monk who opened the door immediately calmed his worries about his reception : `` I speak English '' , the old man said , `` but I do not hear it very well '' .
+0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+open	B-A0	I-A0	B-R-A0	B-V	B-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+calm	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	B-AM-TMP	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+speak	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+hear	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	O	B-AM-NEG	B-V	B-A1	B-AM-MNR	I-AM-MNR	O	O
+
+
+He smiled and stuck a large finger with white hairs sprouting on it into his ear as though that might help .
+0	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0
+smile	B-A0	B-V	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+stick	B-A0	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	B-A2	I-A2	I-A2	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+sprout	O	O	O	O	O	O	O	O	B-A1	I-A1	B-V	B-A2	I-A2	O	O	O	O	O	O	O	O	O
+help	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-AM-MOD	B-V	O
+
+
+Smiling at Warren 's protestations , the old monk took his grip from him and led him down a corridor to a small parlor .
+1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+smile	B-V	B-A2	I-A2	I-A2	I-A2	O	B-A0	I-A0	I-A0	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+take	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-A0	I-A0	I-A0	B-V	B-A1	I-A1	B-A2	I-A2	O	O	O	O	O	O	O	O	O	O	O
+lead	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-A0	I-A0	I-A0	O	O	O	O	O	O	B-V	B-A1	B-AM-DIR	I-AM-DIR	I-AM-DIR	B-A4	I-A4	I-A4	I-A4	O
+
+
+`` Will you please wait in here .
+0	0	0	0	1	0	0	0
+wait	O	B-AM-MOD	B-A1	B-AM-ADV	B-V	B-AM-LOC	I-AM-LOC	O
+
+
+Mickie sat over his second whisky-on-the-rocks in a little bar next to the funeral parlor on Pennsylvania Avenue .
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+sit	B-A1	B-V	B-A2	I-A2	I-A2	I-A2	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O
+
+
+Al 's Little Cafe was small , dark , narrow , and filled with the mingled scent of beer , tobacco smoke , and Italian cooking .
+0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+fill	B-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	B-V	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	O
+
+
+Hanging over the bar was an oil painting of a nude Al had accepted from a student at the Corcoran Gallery who needed to eat and drink and was broke .
+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+hang	B-V	B-AM-LOC	I-AM-LOC	I-AM-LOC	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+need	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	O	O	O	O	B-R-A0	B-V	B-A1	I-A1	I-A1	I-A1	O	O	O	O
+
+
+The nude was small and black-haired and elfin , and was called `` Eloise '' .
+0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+call	B-A1	I-A1	O	O	O	O	O	O	O	O	O	B-V	B-A2	I-A2	I-A2	O
+
+
+This was one place where Moonan could go for a drink in a back booth without anyone noticing him , or at least coming up and hanging around and wanting to know all the low-down .
+0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0	0	1	0	1	0	0	0	0
+go	O	O	B-AM-LOC	I-AM-LOC	B-R-AM-LOC	B-A0	B-AM-MOD	B-V	B-AM-PNC	I-AM-PNC	I-AM-PNC	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O
+notice	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+come	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	O	O	O	O	B-AM-ADV	I-AM-ADV	B-V	B-AM-DIR	O	O	O	O	O	O	O	O	O	O	O
+hang	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	O	O	O	O	B-AM-ADV	I-AM-ADV	O	O	O	B-V	B-A2	O	O	O	O	O	O	O	O
+want	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	O
+know	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	O
+
+
+The other patrons were taxi drivers and art students and small shopkeepers .
+0	0	0	0	0	0	0	0	0	0	0	0	0
+	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+
+The reporters had not yet discovered that this was his hideaway .
+0	0	0	0	0	1	0	0	0	0	0	0
+discover	B-A0	I-A0	O	B-AM-NEG	B-AM-TMP	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+His friend Jane was with him .
+0	0	0	0	0	0	0
+	O	O	O	O	O	O	O
+
+
+She was wise enough to realize a man could be good company even if he did weigh too much and did n't own the mint .
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+realize	B-A0	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+weigh	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	O	B-V	B-A3	I-A3	O	O	O	O	O	O	O
+own	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	O	O	O	O	O	O	B-AM-NEG	B-V	B-A1	I-A1	O
+
+
+She was the widow of a writer who had died in an airplane crash , and Mickie had found her a job as head of the historical section of the Treasury .
+0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+die	O	O	O	O	O	B-A1	I-A1	B-R-A1	O	B-V	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+find	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	O	B-V	B-A2	B-A1	I-A1	B-A3	I-A3	I-A3	I-A3	I-A3	I-A3	I-A3	I-A3	I-A3	O
+
+
+This meant sorting out press clippings and the like .
+0	1	0	0	0	0	0	0	0	0
+mean	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+Jane sat receptive and interested .
+0	1	0	0	0	0
+sit	B-A1	B-V	B-AM-ADV	I-AM-ADV	I-AM-ADV	O
+
+
+Mickie had a pleasant glow as he said , `` You see , both of them , I mean the President and Jeff Lawrence , are romantics .
+0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+have	B-A0	B-V	B-A1	I-A1	I-A1	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O
+say	O	O	O	O	O	O	B-A0	B-V	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+see	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+mean	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O
+
+
+A romantic is one who thinks the world is divinely inspired and all he has to do is find the right key , and then divine justice and altruism will appear .
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0
+think	O	O	O	B-A0	B-R-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+do	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	B-A0	O	O	B-V	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+find	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	O	O	O	O	B-V	B-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O
+appear	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-AM-DIS	I-AM-DIS	B-A1	I-A1	I-A1	I-A1	B-AM-MOD	B-V	O
+
+
+It 's like focusing a camera ; ; the distant ship is n't there until you get the focus .
+0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+focus	O	O	O	B-V	B-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+get	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	O
+
+
+You know what I 'm talking about .
+0	1	0	0	0	1	0	0
+know	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	O
+talk	O	O	B-R-A1	B-A0	O	B-V	B-A1	O
+
+
+I 'm sure all girls feel this way about men until they live with them .
+0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+feel	O	O	O	B-A0	I-A0	B-V	B-A1	I-A1	B-A2	I-A2	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O
+live	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-AM-MNR	I-AM-MNR	O
+
+
+`` But when it comes to war , the Colonel knows what it is and Jeff does n't .
+0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+come	O	B-AM-DIS	B-R-AM-TMP	O	B-V	B-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O
+know	O	B-AM-DIS	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O	B-A0	I-A0	B-V	B-A1	I-A1	I-A1	O	O	O	O	O
+
+
+Mr. Christiansen knows that a soldier will get the Distinguished Service Medal for conduct that would land him in prison for life or the electric chair as a civilian .
+0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+know	B-A0	I-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+get	O	O	O	O	B-A0	I-A0	B-AM-MOD	B-V	B-A1	I-A1	I-A1	I-A1	B-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	O
+
+
+He had a mean , unbroken sheer bastard in his outfit , and someone invented the name Trig for him .
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+have	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	B-AM-LOC	I-AM-LOC	I-AM-LOC	O	O	O	O	O	O	O	O	O	O
+invent	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	I-A1	B-AM-PNC	I-AM-PNC	O
+
+
+That 's to say , he was trigger happy .
+0	0	0	1	0	0	0	0	0	0
+say	O	O	O	B-V	O	B-A1	I-A1	I-A1	I-A1	O
+
+
+He 'd shoot at anything if it was the rear end of a horse or his own sentry .
+0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+shoot	B-A0	B-AM-MOD	B-V	B-A2	I-A2	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+
+
+He was a wiry , inscrutable , silent country boy from the red clay of rural Alabama , and he spoke with the broad drawl that others normally make fun of .
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+speak	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O
+make	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-AM-ADV	B-V	B-A1	B-A2	O
+
+
+But not in front of Trig .
+0	0	0	0	0	0	0
+	O	O	O	O	O	O	O
+
+
+I heard of some that tried it back in the States , and he 'd knock them clear across the room .
+0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+hear	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O
+try	O	O	O	B-A0	B-R-A0	B-V	B-A1	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O	O	O	O	O	O	O	O	O	O	O
+knock	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-AM-MOD	B-V	B-A1	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+
+
+There 'd been a pretty bad incident back at the Marine base .
+0	0	0	0	0	0	0	0	0	0	0	0	0
+	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+
+A New York kid , a refugee from one of the Harlem gangs , made fun of Trig 's accent , and drew a knife .
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+make	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	B-V	B-A1	B-A2	I-A2	I-A2	I-A2	O	O	O	O	O	O
+draw	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	O	O	O	O	O	O	O	O	B-V	B-A1	I-A1	O
+
+
+Before the fight was over , the Harlem boy had a concussion and Trig was cut up badly .
+0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+have	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O	B-A0	I-A0	I-A0	B-V	B-A1	I-A1	O	O	O	O	O	O	O
+cut	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	O	B-V	I-V	B-AM-MNR	O
+
+
+They caught Trig stealing liquor from the officers ' mess , and he got a couple of girls in trouble .
+0	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+catch	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O
+steal	O	O	B-A0	B-V	B-A1	B-A2	I-A2	I-A2	I-A2	I-A2	O	O	O	O	O	O	O	O	O	O	O
+get	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	B-A2	I-A2	O
+
+
+The fear of punishment just did n't bother him .
+0	0	0	0	0	0	0	1	0	0
+bother	B-A0	I-A0	I-A0	I-A0	B-AM-ADV	O	B-AM-NEG	B-V	B-A1	O
+
+
+It was n't there .
+0	0	0	0	0
+	O	O	O	O	O
+
+
+It was left out of him at birth .
+0	0	1	0	0	0	0	0	0
+leave	B-A1	O	B-V	I-V	B-A2	I-A2	B-AM-TMP	I-AM-TMP	O
+
+
+This is why he made such a magnificent soldier .
+0	0	0	0	1	0	0	0	0	0
+make	O	O	B-R-AM-CAU	B-A1	B-V	B-A2	I-A2	I-A2	I-A2	O
+
+
+He was n't troubled with the ordinary , rank-and-file fear that overcomes and paralyzes and sends individual soldiers and whole companies under fire running in panic .
+0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	1	0	0	0
+trouble	B-A1	O	B-AM-NEG	B-V	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	O
+overcome	O	O	O	O	O	B-A0	I-A0	I-A0	I-A0	I-A0	B-R-A0	B-V	O	O	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O
+paralyze	O	O	O	O	O	B-A0	I-A0	I-A0	I-A0	I-A0	B-R-A0	O	O	B-V	O	O	O	O	O	O	O	O	O	O	O	O	O
+send	O	O	O	O	O	B-A0	I-A0	I-A0	I-A0	I-A0	B-R-A0	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	B-A2	I-A2	I-A2	O
+run	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	B-V	B-AM-MNR	I-AM-MNR	O
+
+
+It just did n't occur to Trig that anything serious would happen to him .
+0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+occur	O	O	O	B-AM-NEG	B-V	B-AM-ADV	I-AM-ADV	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+happen	O	O	O	O	O	O	O	O	B-A1	I-A1	B-AM-MOD	B-V	B-A2	I-A2	O
+
+
+Do you get the picture of the kind of fellow he was '' ? ?
+0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+get	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	O
+
+
+Jane nodded with a pleasant smile .
+0	1	0	0	0	0	0
+nod	B-A0	B-V	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+
+
+`` All right .
+0	0	0	0
+	O	O	O	O
+
+
+There was a sniper 's nest in a mountain cave , and it was picking off our men with devilish accuracy .
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+pick	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	O	B-V	I-V	B-A1	I-A1	B-AM-MNR	I-AM-MNR	I-AM-MNR	O
+
+
+The Colonel ordered that it be wiped out , and I suggested , ' You ask for volunteers , and promise each man on the patrol a quart of whisky , ten dollars and a week-end pass to Davao .
+0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+order	B-A0	I-A0	B-V	B-A2	I-A2	I-A2	I-A2	I-A2	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+wipe	O	O	O	O	B-A1	O	B-V	I-V	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+suggest	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+ask	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+promise	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	B-A2	I-A2	I-A2	I-A2	O	B-A2	I-A2	O	O	O	O	O	O	O
+
+
+Trig was one of the five volunteers .
+0	0	0	0	0	0	0	0
+	O	O	O	O	O	O	O	O
+
+
+The patrol snaked around in back of the cave , approached it from above and dropped in suddenly with wild howls .
+0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0
+snake	B-A0	I-A0	B-V	B-AM-ADV	B-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O
+approach	B-A1	I-A1	O	O	O	O	O	O	O	O	B-V	B-A2	B-AM-ADV	I-AM-ADV	O	O	O	O	O	O	O	O
+drop	B-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-AM-DIR	B-AM-TMP	B-AM-ADV	I-AM-ADV	I-AM-ADV	O
+
+
+You could hear them from our outpost .
+0	0	1	0	0	0	0	0
+hear	B-A0	B-AM-MOD	B-V	B-A1	B-AM-LOC	I-AM-LOC	I-AM-LOC	O
+
+
+There was a lot of shooting .
+0	0	0	0	0	0	0
+	O	O	O	O	O	O	O
+
+
+We knew the enemy was subdued , because a flare was fired as the signal .
+0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0
+know	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	O	B-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	O
+subdue	O	O	B-A1	I-A1	O	B-V	O	O	O	O	O	O	O	O	O	O
+fire	O	O	O	O	O	O	O	O	B-A1	I-A1	O	B-V	B-AM-ADV	I-AM-ADV	I-AM-ADV	O
+
+
+So we hurried over .
+0	0	1	0	0
+hurry	B-AM-DIS	B-A1	B-V	B-AM-DIR	O
+
+
+Two of our men were killed , a third was wounded .
+0	0	0	0	0	1	0	0	0	0	1	0
+kill	B-A1	I-A1	I-A1	I-A1	O	B-V	O	O	O	O	O	O
+wound	O	O	O	O	O	O	O	B-A1	I-A1	O	B-V	O
+
+
+Trig and a very black colored boy from Detroit had killed or put out of action ten guerrillas by grenades and hand-to-hand fighting .
+0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+kill	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	O	B-V	O	O	O	O	O	B-A1	I-A1	B-A2	I-A2	I-A2	I-A2	I-A2	O
+put	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	O	O	O	B-V	B-A2	I-A2	I-A2	B-A1	I-A1	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O
+
+
+When we got there , Trig and the Negro were quarreling over possession of a gold crucifix around the neck of a wounded Filipino .
+0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+get	B-R-AM-TMP	B-A1	B-V	B-A2	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+quarrel	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O	B-A0	I-A0	I-A0	I-A0	O	B-V	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	O
+
+
+The colored boy had it , and Trig lunged at him with a knife and said , ' Give that to me , you black bastard .
+0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0
+have	B-A0	I-A0	I-A0	B-V	B-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+lunge	O	O	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	B-AM-ADV	I-AM-ADV	I-AM-ADV	O	O	O	O	O	O	O	O	O	O	O	O	O
+say	O	O	O	O	O	O	O	B-A0	O	O	O	O	O	O	O	B-V	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+give	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	B-A2	I-A2	O	B-A0	I-A0	I-A0	O
+
+
+We do n't 'low nigras to walk on the same sidewalk with white men where I come from .
+0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0
+allow	B-A0	O	B-AM-NEG	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O
+walk	O	O	O	O	B-A0	O	B-V	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	B-AM-MNR	I-AM-MNR	I-AM-MNR	O	O	O	O	O
+come	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	B-V	B-A3	O
+
+
+`` The Negro got a bad slice on his chest from the knife wound '' .
+0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+get	O	B-A0	I-A0	B-V	B-A1	I-A1	I-A1	B-AM-LOC	I-AM-LOC	I-AM-LOC	B-A2	I-A2	I-A2	I-A2	O	O
+
+
+`` What did the Colonel do about the men '' ? ? Jane asked in her placid , interested way .
+0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+do	O	B-R-A1	O	B-A0	I-A0	B-V	B-A2	I-A2	I-A2	O	O	O	O	O	O	O	O	O	O	O	O
+ask	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	B-A0	B-V	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O
+
+
+Mickie laughed .
+0	1	0
+laugh	B-A0	B-V	O
+
+
+`` He recommended both of them for the DSM and the Detroit fellow for the Purple Heart , too , for a combat-inflicted wound .
+0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+recommend	O	B-A0	B-V	B-A1	I-A1	I-A1	B-A3	I-A3	I-A3	O	B-A1	I-A1	I-A1	B-A3	I-A3	I-A3	I-A3	O	B-AM-ADV	O	B-AM-CAU	I-AM-CAU	I-AM-CAU	I-AM-CAU	O
+
+
+So you see Mr. Christiansen knows what it 's all about .
+0	0	1	0	0	1	0	0	0	0	0	0
+see	O	B-A0	B-V	O	O	O	O	O	O	O	O	O
+know	O	O	O	B-A0	I-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+But not Jeff Lawrence .
+0	0	0	0	0
+	O	O	O	O	O
+
+
+When he was in the war , he was in Law or Supplies or something like that , and an old buddy of his told me he would come down on Sundays to the Pentagon and read the citations for medals -- just like the one we sent in for Trig -- and go away with a real glow .
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0
+tell	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	I-A0	I-A0	I-A0	B-V	B-A2	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+come	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	B-AM-MOD	B-V	B-AM-DIR	B-AM-TMP	I-AM-TMP	B-A4	I-A4	I-A4	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+read	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-AM-MOD	O	O	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O	O
+send	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	B-A0	B-V	B-AM-DIR	B-AM-ADV	I-AM-ADV	O	O	O	O	O	O	O	O	O
+go	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-AM-MOD	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-AM-DIR	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O
+
+
+These were heroes nine feet tall to him '' .
+0	0	0	0	0	0	0	0	0	0
+	O	O	O	O	O	O	O	O	O	O
+
+
+Jefferson Lawrence was alone at the small , perfectly appointed table by the window looking out over the river .
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+look	B-A0	I-A0	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-AM-DIR	I-AM-DIR	I-AM-DIR	I-AM-DIR	O
+
+
+He had dinner and sat there over his coffee watching the winding pattern of traffic as it crossed the bridge and spread out like a serpent with two heads .
+0	1	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0
+have	B-A0	B-V	B-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+sit	B-A1	O	O	O	B-V	B-AM-LOC	B-A2	I-A2	I-A2	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+watch	B-A0	O	O	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O
+wind	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+cross	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	O	O	O	O	O	O	O	O	O	O
+spread	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	O	O	O	O	B-V	B-AM-DIR	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O
+
+
+Beside him was Mrs. Dalloway .
+0	0	0	0	0	0
+	O	O	O	O	O	O
+
+
+He thought how this dainty , fragile older woman threading her way through the streets of Westminster on a day in June , enjoying the flowers in the shops , the greetings from old friends , but never really drawing a deep , passionate breath , was so like himself .
+0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+think	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+thread	O	O	O	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	B-V	B-A1	I-A1	B-AM-DIR	I-AM-DIR	I-AM-DIR	I-AM-DIR	I-AM-DIR	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+enjoy	O	O	O	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+draw	O	O	O	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-AM-NEG	B-AM-ADV	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O
+
+
+He , and Mrs. Dalloway , too , had never permitted themselves the luxury of joys that dug into the bone marrow of the spirit .
+0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+permit	B-A0	I-A0	I-A0	I-A0	I-A0	O	B-AM-DIS	O	O	B-AM-NEG	B-V	B-A2	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+dig	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-R-A0	B-V	B-AM-DIR	I-AM-DIR	I-AM-DIR	I-AM-DIR	I-AM-DIR	I-AM-DIR	I-AM-DIR	O
+
+
+He had not because he was both poor and ambitious .
+0	0	0	0	0	0	0	0	0	0	0
+	O	O	O	O	O	O	O	O	O	O	O
+
+
+Poverty imposes a kind of chastity on the ambitious .
+0	1	0	0	0	0	0	0	0	0
+impose	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	B-A2	I-A2	I-A2	O
+
+
+They can not stop to grasp and embrace and sit in the back seat of cars along a dark country lane .
+0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+stop	B-A1	B-AM-MOD	B-AM-NEG	B-V	B-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O
+grasp	B-A0	O	O	O	O	B-V	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+embrace	B-A0	O	O	O	O	O	O	B-V	O	O	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O	O	O	O	O	O
+sit	B-A1	O	O	O	O	O	O	O	O	B-V	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	O	O	O	O	O	O
+
+
+No , they must look the other way and climb one more painful step up the ladder .
+0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+look	O	O	B-A0	B-AM-MOD	B-V	B-AM-DIR	I-AM-DIR	I-AM-DIR	O	O	O	O	O	O	O	O	O	O
+climb	O	O	B-A0	B-AM-MOD	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+He made the decision with his eyes open , or so he thought .
+0	1	0	0	0	0	0	0	0	0	0	0	1	0
+make	B-A0	B-V	B-A1	I-A1	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O	O	O	O	O	O
+think	O	O	O	O	O	O	O	O	O	O	B-AM-ADV	B-A0	B-V	O
+
+
+At any cost , he must leave the dreary Pennsylvania mining town where his father was a pharmacist .
+0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+leave	B-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-A0	B-AM-MOD	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+And so he had , so he had .
+0	0	0	0	0	0	0	0	0
+	O	O	O	O	O	O	O	O	O
+
+
+At State College , he had no time to walk among the violets on the water 's edge .
+0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0
+have	B-AM-LOC	I-AM-LOC	I-AM-LOC	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+walk	O	O	O	O	B-A0	O	B-AM-TMP	I-AM-TMP	O	B-V	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O
+
+
+From his room he could look out in springtime and see the couples hand in hand walking slowly , deliciously , across the campus , and he could smell the sweet vernal winds .
+0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+look	B-AM-LOC	I-AM-LOC	I-AM-LOC	B-A0	B-AM-MOD	B-V	B-AM-DIR	B-AM-TMP	I-AM-TMP	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+see	B-AM-LOC	I-AM-LOC	I-AM-LOC	B-A0	B-AM-MOD	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O	O	O	O
+walk	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	B-AM-MNR	I-AM-MNR	I-AM-MNR	B-V	B-AM-MNR	O	B-AM-MNR	O	B-AM-DIR	I-AM-DIR	I-AM-DIR	O	O	O	O	O	O	O	O	O	O
+smell	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-AM-MOD	B-V	B-A1	I-A1	I-A1	I-A1	O
+
+
+He was not stone .
+0	0	0	0	0
+	O	O	O	O	O
+
+
+He was not unmoved .
+0	0	0	0	0
+	O	O	O	O	O
+
+
+He had to teach himself patiently that these traps were not for him .
+0	0	0	1	0	0	0	0	0	0	0	0	0	0
+teach	B-A0	B-AM-MOD	O	B-V	B-A2	B-AM-MNR	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+He must mentally pull the blinds and close the window , so that all that existed was in the books before him .
+0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+pull	B-A0	B-AM-MOD	B-AM-MNR	B-V	B-A1	I-A1	O	O	O	O	O	B-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	O
+close	B-A0	B-AM-MOD	B-AM-MNR	O	O	O	O	B-V	B-A1	I-A1	O	B-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	O
+exist	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	B-R-A1	B-V	O	O	O	O	O	O	O
+
+
+At law school , the same .
+0	0	0	0	0	0	0
+	O	O	O	O	O	O	O
+
+
+More of this stamping down of human emotion as a young lawyer in New York .
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+
+By the time he was prosperous enough -- his goals were high -- he was bald and afraid of women .
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+
+
+The only one who would have him was his cripple , the strange unhappy woman who became his wife .
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+have	B-A0	I-A0	I-A0	B-R-A0	B-AM-MOD	B-V	B-A1	O	O	O	O	O	O	O	O	O	O	O	O	O
+become	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	I-A1	I-A1	B-R-A1	B-V	B-A2	I-A2	O
+
+
+Perhaps it was right ; ; perhaps it was just .
+0	0	0	0	0	0	0	0	0	0	0
+	O	O	O	O	O	O	O	O	O	O	O
+
+
+He had dared to defy nature , to turn his back to the Lorelei , and he was punished .
+0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0
+dare	B-A1	O	B-V	B-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	I-A2	O	O	O	O	O	O
+defy	B-A0	O	O	O	B-V	B-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+turn	B-A0	O	O	O	O	O	O	O	B-V	B-A1	I-A1	B-AM-DIR	I-AM-DIR	I-AM-DIR	O	O	O	O	O	O
+punish	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	O	B-V	O
+
+
+Like Mrs. Dalloway , with her regrets about Peter Walsh , he had his moments of melancholy over a youth too well spent .
+0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0
+have	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+spend	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	B-AM-MNR	I-AM-MNR	B-V	O
+
+
+If he had had a son , he would tell him , `` Gather ye rosebuds while ye may This same flower that smiles today tomorrow will be dying '' .
+0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0
+have	O	B-A0	O	B-V	B-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+tell	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	B-A0	B-AM-MOD	B-V	B-A2	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O
+gather	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A0	B-A1	B-AM-TMP	I-AM-TMP	I-AM-TMP	O	O	O	O	O	O	O	O	O	O	O	O
+smile	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	I-A0	B-R-A0	B-V	B-AM-TMP	O	O	O	O	O	O
+die	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	B-AM-TMP	B-AM-MOD	O	B-V	O	O
+
+
+But then his son could afford it .
+0	0	0	0	0	1	0	0
+afford	B-AM-DIS	I-AM-DIS	B-A0	I-A0	B-AM-MOD	B-V	B-A1	O
+
+
+Lawrence was waiting for Bill Boxell .
+0	0	1	0	0	0	0
+wait	B-A1	O	B-V	B-A2	I-A2	I-A2	O
+
+
+The Vice President had called and asked if he could see the Secretary at his home .
+0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0
+call	B-A0	I-A0	I-A0	O	B-V	O	O	O	O	O	O	O	O	O	O	O	O
+ask	B-A0	I-A0	I-A0	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+see	O	O	O	O	O	O	O	O	B-A0	B-AM-MOD	B-V	B-A1	I-A1	B-AM-LOC	I-AM-LOC	I-AM-LOC	O
+
+
+He said the matter was urgent .
+0	1	0	0	0	0	0
+say	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	O
+
+
+The Secretary was uneasy about the visit .
+0	0	0	0	0	0	0	0
+	O	O	O	O	O	O	O	O
+
+
+He did not like Boxell .
+0	0	0	0	0	0
+	O	O	O	O	O	O
+
+
+He suspected something underhanded and furtive about him .
+0	1	0	0	0	0	0	0	0
+suspect	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+Lawrence could not put his finger on it precisely , and this worried him .
+0	0	0	1	0	0	0	0	0	0	0	0	1	0	0
+put	B-A0	B-AM-MOD	B-AM-NEG	B-V	B-A1	I-A1	B-A2	I-A2	B-AM-ADV	O	O	O	O	O	O
+worry	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	O
+
+
+When you disliked or distrusted a man , you should have a reason .
+0	0	1	0	1	0	0	0	0	0	1	0	0	0
+dislike	B-R-AM-TMP	B-A0	B-V	O	O	B-A1	I-A1	O	O	O	O	O	O	O
+distrust	B-R-AM-TMP	B-A0	O	O	B-V	B-A1	I-A1	O	O	O	O	O	O	O
+have	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	O	B-A0	B-AM-MOD	B-V	B-A1	I-A1	O
+
+
+Human nature was not a piece of meat you could tell was bad by its smell .
+0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+tell	O	O	O	O	O	O	O	O	B-A0	B-AM-MOD	B-V	B-A1	I-A1	B-AM-MNR	I-AM-MNR	I-AM-MNR	O
+
+
+Lawrence stared a minute at the lighted ribbon of traffic , hoping that a clue to his dislike of the Vice President would appear .
+0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0
+stare	B-A0	B-V	B-AM-TMP	I-AM-TMP	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+hope	B-A0	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+appear	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	B-AM-MOD	B-V	O
+
+
+It did not .
+0	0	0	0
+	O	O	O	O
+
+
+Therefore , he decided he was unfair to the young man and should make an effort to understand and sympathize with his point of view .
+0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0
+decide	B-AM-DIS	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+make	O	O	O	O	B-A0	O	O	O	O	O	O	O	B-AM-MOD	B-V	B-A1	I-A1	B-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	I-AM-PNC	O
+understand	O	O	O	O	B-A0	O	O	O	O	O	O	O	O	O	O	O	O	B-V	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	O
+sympathize	O	O	O	O	B-A0	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+A half hour later the Vice President arrived .
+0	0	0	0	0	0	0	1	0
+arrive	B-AM-TMP	I-AM-TMP	I-AM-TMP	I-AM-TMP	B-A1	I-A1	I-A1	B-V	O
+
+
+He looked very carefully at every piece of furnishing , as though hoping to store this information carefully in his mind .
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+look	B-A0	B-V	B-AM-MNR	I-AM-MNR	B-A1	I-A1	I-A1	I-A1	I-A1	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+store	B-A0	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	I-A1	B-AM-MNR	B-AM-LOC	I-AM-LOC	I-AM-LOC	O
+
+
+He observed the Florentine vase in the hall , the Renoir painting in the library , as well as the long shelves of well-bound volumes ; ; the pattern of the Oriental rug , the delicate cut-glass chandelier .
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+observe	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+
+
+He said to the Secretary , `` I understand you came from a little Pennsylvania town near Wilkes-Barre .
+0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0
+say	B-A0	B-V	B-A2	I-A2	I-A2	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+understand	O	O	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+come	O	O	O	O	O	O	O	O	O	B-A1	B-V	B-A3	I-A3	I-A3	I-A3	I-A3	I-A3	I-A3	O
+
+
+How did you find out about this '' ? ?
+0	0	0	1	0	0	0	0	0	0
+find	B-R-AM-MNR	O	B-A0	B-V	I-V	B-A1	I-A1	O	O	O
+
+
+He waved his arm around at the furnishings .
+0	1	0	0	0	0	0	0	0
+wave	B-A0	B-V	B-A1	I-A1	B-AM-ADV	B-A2	I-A2	I-A2	O
+
+
+It was not a discourteous question , Lawrence decided .
+0	0	0	0	0	0	0	0	1	0
+decide	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	B-A0	B-V	O
+
+
+This young man had so little time to learn he had to be curious ; ; he had to find out .
+0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0
+have	B-A0	I-A0	I-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+learn	B-A0	I-A0	I-A0	O	B-AM-TMP	I-AM-TMP	I-AM-TMP	O	B-V	O	O	O	O	O	O	O	O	O	O	O	O	O
+find	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	O	O	B-V	I-V	O
+
+
+The Secretary did not tell him at what cost , at what loneliness , he learned these things .
+0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+tell	B-A0	I-A0	O	B-AM-NEG	B-V	B-A2	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+learn	O	O	O	O	O	O	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	B-A0	B-V	B-A1	I-A1	O
+
+
+He merely said , `` Any good decorator these days can make you a tasteful home '' .
+0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+say	B-A0	B-AM-ADV	B-V	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O
+make	O	O	O	O	O	B-A0	I-A0	I-A0	B-AM-TMP	I-AM-TMP	B-AM-MOD	B-V	B-A3	B-A1	I-A1	I-A1	O	O
+
+
+The Vice President said , `` If you hear of any names that would fix me cheap in return for advertising they decorated the Vice President 's home , let me know .
+0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	1	0
+say	B-A0	I-A0	I-A0	B-V	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+hear	O	O	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O	O
+fix	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	B-R-A0	B-AM-MOD	B-V	B-A1	B-AM-MNR	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O	O	O	O	O
+advertise	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O	O
+decorate	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O	O
+let	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-V	B-A1	I-A1	O
+know	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	O
+
+
+I can do business with that kind '' .
+0	0	1	0	0	0	0	0	0
+do	B-A0	B-AM-MOD	B-V	B-A1	B-A2	I-A2	I-A2	O	O
+
+
+Again , Lawrence thought a little sadly , these were the fees of poverty and ambition .
+0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+think	B-A1	O	B-A0	B-V	B-AM-MNR	I-AM-MNR	I-AM-MNR	O	B-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	O
+
+
+Boxell did not have the chance to grow up graciously .
+0	0	0	1	0	0	0	1	0	0	0
+have	B-A0	O	B-AM-NEG	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+grow	B-A1	O	O	O	O	O	O	B-V	I-V	B-AM-MNR	O
+
+
+He had to acquire everything he was going to get in four years .
+0	0	0	1	0	0	0	0	0	1	0	0	0	0
+acquire	B-A0	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	B-AM-TMP	I-AM-TMP	I-AM-TMP	O
+get	O	O	O	O	B-A1	B-A0	O	O	O	B-V	O	O	O	O
+
+
+They had brandy in the library .
+0	1	0	0	0	0	0
+have	B-A0	B-V	B-A1	B-AM-LOC	I-AM-LOC	I-AM-LOC	O
+
+
+Boxell looked at Lawrence with a searching glance , the kind that a prosecuting attorney would give a man on trial .
+0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+look	B-A0	B-V	B-A1	I-A1	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O
+search	O	O	O	O	O	O	B-V	B-A0	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+give	O	O	O	O	O	O	O	O	O	B-A1	I-A1	B-R-A1	B-A0	I-A0	I-A0	B-AM-MOD	B-V	B-A2	I-A2	I-A2	I-A2	O
+
+
+What are your weaknesses ? ?
+0	0	0	0	0	0
+	O	O	O	O	O	O
+
+
+Where will you break ? ?
+0	0	0	1	0	0
+break	B-R-AM-LOC	B-AM-MOD	B-A0	B-V	O	O
+
+
+How best to destroy your peace ? ?
+0	0	0	1	0	0	0	0
+destroy	B-R-AM-MNR	B-AM-MNR	O	B-V	B-A1	I-A1	O	O
+
+
+The Vice President said with a slight bluster , `` There is n't anyone who loves the President more than I do .
+0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+say	B-A0	I-A0	I-A0	B-V	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+love	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-R-A0	B-V	B-A1	I-A1	B-AM-EXT	I-AM-EXT	I-AM-EXT	I-AM-EXT	O
+
+
+Old Chris is my ideal .
+0	0	0	0	0	0
+	O	O	O	O	O	O
+
+
+At the same time , you have to face facts and realize that a man who 's been in the Marine Corps all his life does n't understand much about politics .
+0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+face	O	O	O	O	O	B-A0	O	O	B-V	B-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+realize	O	O	O	O	O	B-A0	B-AM-MOD	O	O	O	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+understand	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	I-A0	O	B-AM-NEG	B-V	B-A1	I-A1	I-A1	O
+
+
+What does a monk know about sex '' ? ?
+0	0	0	0	1	0	0	0	0	0
+know	B-R-A1	O	B-A0	I-A0	B-V	B-A2	I-A2	O	O	O
+
+
+Lawrence listened with the practiced , deceptive calm of the lawyer , but his face was in the shadow .
+0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+listen	B-A0	B-V	B-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	I-AM-MNR	O	O	O	O	O	O	O	O	O
+
+
+`` So , we have to protect the old man for his own good .
+0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+protect	O	O	O	B-A0	B-AM-MOD	O	B-V	B-A1	I-A1	I-A1	B-AM-ADV	I-AM-ADV	I-AM-ADV	I-AM-ADV	O
+
+
+You see what I mean .
+0	0	0	0	1	0
+mean	O	O	B-R-A1	B-A0	B-V	O
+
+
+Congress is full of politicians , and if you want to get along with them , you have to be politic .
+0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+want	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O
+
+
+This is why I say we just ca n't go ahead and disarm the Germans and pull down our own defenses .
+0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0
+say	O	O	B-R-AM-CAU	B-A0	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+go	O	O	O	O	O	B-A0	B-AM-ADV	B-AM-MOD	B-AM-NEG	B-V	B-A2	O	O	O	O	O	O	O	O	O	O	O
+disarm	O	O	O	O	O	B-A0	B-AM-ADV	B-AM-MOD	B-AM-NEG	O	O	O	B-V	B-A1	I-A1	O	O	O	O	O	O	O
+pull	O	O	O	O	O	B-A0	B-AM-ADV	B-AM-MOD	B-AM-NEG	O	O	O	O	O	O	O	B-V	B-A2	B-A1	I-A1	I-A1	O
+
+
+Let me tell you what happened to me today .
+1	0	1	0	0	1	0	0	0	0
+let	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+tell	O	B-A0	B-V	B-A2	B-A1	I-A1	I-A1	I-A1	I-A1	O
+happen	O	O	O	O	B-R-A1	B-V	B-A2	I-A2	B-AM-TMP	O
+
+
+A fellow came up to me , a Senator , I do n't have to tell you his name , and he told me , ' I love the President like a brother , but God damn it , he 's crucifying me .
+0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0
+come	B-A1	I-A1	B-V	B-A4	I-A4	I-A4	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+tell	O	O	O	O	O	O	O	O	O	O	B-A0	O	O	O	O	B-V	B-A2	B-A1	I-A1	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+tell	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A2	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+love	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A1	I-A1	B-AM-MNR	I-AM-MNR	I-AM-MNR	O	O	O	O	O	O	O	O	O	O	O
+damn	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-AM-DIS	B-A0	B-V	B-A1	O	O	O	O	O	O
+crucify	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-AM-DIS	I-AM-DIS	I-AM-DIS	O	B-A0	O	B-V	B-A1	O
+
+
+I 've got a quarter of a million Germans in my state , and those krautheads tune in on Father Werther every night , and if he tells them to go out and piss in the public square , that 's what they do .
+0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0
+get	B-A0	O	B-V	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	B-AM-LOC	I-AM-LOC	I-AM-LOC	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+tune	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	B-V	I-V	B-A2	I-A2	I-A2	B-AM-TMP	I-AM-TMP	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+tell	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	B-V	B-A2	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O	O	O	O	O	O	O
+go	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	O	B-V	B-AM-DIR	O	O	O	O	O	O	O	O	O	O	O	O	O
+piss	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	O	O	O	O	B-V	B-AM-LOC	I-AM-LOC	I-AM-LOC	I-AM-LOC	O	O	O	O	O	O	O
+do	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-R-A1	B-A0	B-V	O
+
+
+He 's telling them now to write letters to their Congressmen opposing the disarmament of Germany .
+0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0
+tell	B-A0	O	B-V	B-A2	B-AM-TMP	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+write	O	O	O	B-A0	O	O	B-V	B-A1	B-A2	I-A2	I-A2	B-C-A1	I-C-A1	I-C-A1	I-C-A1	I-C-A1	O
+oppose	O	O	O	O	O	O	O	B-A0	I-A0	I-A0	I-A0	B-V	B-A1	I-A1	I-A1	I-A1	O
+
+
+And another one comes to me and he says , ' Look here , there 's a mill in my state employs five thousand people making uniforms for the Navy .
+0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0
+come	O	B-A1	I-A1	B-V	B-A4	I-A4	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+say	O	O	O	O	O	O	O	B-A0	B-V	O	O	B-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	I-A1	O
+look	O	O	O	O	O	O	O	O	O	O	O	B-V	B-AM-DIR	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+employ	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	O	O	O	B-V	B-A1	I-A1	I-A1	B-A2	I-A2	I-A2	I-A2	I-A2	O
+make	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	B-A0	I-A0	I-A0	B-V	B-A1	B-A3	I-A3	I-A3	O
+
+
