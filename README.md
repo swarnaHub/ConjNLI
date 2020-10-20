@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ## Data
 
-ConjNLI dev and test sets can be found inside ```data/NLI``` folder. The test set does not have gold annotations. Check out the ```Scoreboard``` section below to know how to submit results on the ConjNLI test set.
+ConjNLI dev and test sets can be found inside ```data/NLI``` folder. The test set does not have gold annotations. Check out the ```ConjNLI Submission``` section below to know how to submit your results on the ConjNLI test set.
 
 We also release the adversarially created training examples at ```data/NLI/adversarial_15k_train.tsv``` which can be used to train the IAFT model (details below).
 
@@ -56,20 +56,19 @@ Now you can train the Predicate-aware model by running
 ```
 bash scripts/train_conjnli_PA.sh
 ```
+This will save the model and sample predictions for ConjNLI dev set inside output/ConjNLI_PA.
 
 ### Evaluating models
 
-Once you have the models saved, you can just evaluate these by running the corresponding evaluation scripts. Specifically, depending on the model you want to evaluate, you can run any one of the following scripts
-
+Once you have the models saved, you can simply evaluate these by running the corresponding evaluation scripts. Specifically, depending on the model you want to evaluate, you can run any one of the following scripts
 ```
 bash scripts/test_conjnli.sh
 bash scripts/test_conjnli_IAFT.sh
 bash scripts/test_conjnli_PA.sh
 ```
-
 By default, these will report results on the ConjNLI dev set. Should you wish to evaluate these models on MNLI dev set, look at the comments in lines 105 and 155 of ```utils_conjnli.py```.
 
-### ConjNLI Scoreboard
+## ConjNLI Scoreboard
 
 Model | Link | Date | Conj Dev | MNLI Dev | Conj Test
 --- | --- | --- | --- | --- | ---
@@ -78,11 +77,14 @@ RoBERTa | [Saha et al., 2020]() | 10-20-2020 | 64.68 | 87.56/87.51 | 65.50
 RoBERTa-PA | [Saha et al., 2020]() | 10-20-2020 | 64.88 | 87.75/87.63 | 66.30
 RoBERTa-IAFT | [Saha et al., 2020]() | 10-20-2020 | 69.18 | 86.93/86.81 | 67.90
 
-### ConjNLI Submission
+## ConjNLI Submission
 
-If you want your results to be showed on the Scoreboard, please email us (swarna@cs.unc.edu) with the name of the entry, a link to your method, and your model prediction files. Specifically, you should send us four model prediction files, one for ConjNLI Dev set, two for MNLI matched/mismatched Dev sets and another for ConjNLI test set. Each prediction file should be a text file with one label per line, in the order of the examples. A sample prediction file is shown in ```data/NLI/sample_prediction.txt```.
+If you want your results to be shown on the Scoreboard, please email us (swarna@cs.unc.edu) with the name of the entry, a link to your method, and your model prediction files. Specifically, you should send us four model prediction files, one for ConjNLI Dev set, two for MNLI matched/mismatched Dev sets and another for ConjNLI test set. Each prediction file should be a text file with one label per line, in the order of the examples. A sample prediction file is shown in ```data/NLI/sample_prediction.txt```.
 
-### Citation
+## Trained Models
+We also release our trained models [here](). You can reproduce the results from the paper by running the corresponding evaluation scripts.
+
+## Citation
 ```
 @inproceedings{saha2020conjnli,
   title={ConjNLI: Natural Language Inference over Conjunctive Sentences},
