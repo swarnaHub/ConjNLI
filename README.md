@@ -33,6 +33,23 @@ Train the baseline RoBERTa model by running
 ```
 bash scripts/finetune_conjnli.sh
 ```
+This will save the model and sample predictions for ConjNLI dev set inside ```output/ConjNLI```.
+
+### Training RoBERTa-IAFT
+
+In order to train an IAFT model, you'd first need a baseline RoBERTa model trained and saved (following previous section). Once you have that, you can train an Iterative Adversarial Fine-tuning model by running
+```
+bash scripts/train_conjnli_IAFT.sh
+```
+This will save the model and sample predictions for ConjNLI dev set inside ```output/ConjNLI_IAFT```.
+
+### Training RoBERTa-PA
+
+The predicate-aware RoBERTa model (RoBERTa-PA) first requires a fine-tuned BERT model on the Semantic Role Labeling (SRL) task. The data used to train the SRL model is inside ```data/PropBank```.
+Train an SRL model on the PropBank data using the following script
+```
+bash scripts/train_srl.sh
+```
 
 ### Citation
 ```
