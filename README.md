@@ -50,7 +50,34 @@ Train an SRL model on the PropBank data using the following script
 ```
 bash scripts/train_srl.sh
 ```
-This will save the SRL model inside ```output/srl_bert``` and you can expect an F1 of ```86.23%``` on the CoNLL 2005 dev set.
+This will save the SRL model inside ```output/srl_bert``` and you can expect an F1 of approximately ```86%``` on the CoNLL 2005 dev set.
+
+Now you can train the Predicate-aware model by running
+```
+bash scripts/train_conjnli_PA.sh
+```
+
+### Evaluating models
+
+Once you have the models saved, you can just evaluate these by running the corresponding evaluation scripts. Specifically, depending on the model you want to evaluate, you can run any one of the following scripts
+
+```
+bash scripts/test_conjnli.sh
+bash scripts/test_conjnli_IAFT.sh
+bash scripts/test_conjnli_PA.sh
+```
+
+By default, these will report results on the ConjNLI dev set. Should you wish to evaluate these models on MNLI dev set, look at the comments in lines 105 and 155 of ```utils_conjnli.py```.
+
+### ScoreBoard
+
+### ConjNLI
+Model | Link | Date | Conj Dev | MNLI Dev | Conj Test
+--- | --- | --- | --- | --- | --- | ---
+BERT | [Saha et al., 2020]() | 10-20-2020 | 58.10 | 84.10/83.90 | 61.40
+RoBERTa | [Saha et al., 2020]() | 10-20-2020 | 64.68 | 87.56/87.51 | 65.50
+RoBERTa-PA | [Saha et al., 2020]() | 10-20-2020 | 64.88 | 87.75/87.63 | 66.30
+RoBERTa-IAFT | [Saaha et al., 2020]() | 10-20-2020 | 69.18 | 86.93/86.81 | 67.90
 
 ### Citation
 ```
