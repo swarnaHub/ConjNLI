@@ -132,3 +132,4 @@ dmypy.json
 
 trained_models/
 
+.DS_Store
