@@ -82,7 +82,7 @@ RoBERTa-IAFT | [Saha et al., 2020]() | 10-20-2020 | 69.18 | 86.93/86.81 | 67.90
 If you want your results to be shown on the Scoreboard, please email us (swarna@cs.unc.edu) with the name of the entry, a link to your method, and your model prediction files. Specifically, you should send us four model prediction files, one for ConjNLI Dev set, two for MNLI matched/mismatched Dev sets and another for ConjNLI test set. Each prediction file should be a text file with one label per line, in the order of the examples. A sample prediction file is shown in ```data/NLI/sample_prediction.txt```.
 
 ## Trained Models
-We also release our trained models [here](). You can reproduce the results from the paper by running the corresponding evaluation scripts.
+We also release our trained models [here](https://drive.google.com/file/d/1hGnZD6c_s5dZ2nHgYbnfVLMwaA4vUNxz/view?usp=sharing). You can reproduce the results from the paper by running the corresponding evaluation scripts.
 
 ## Citation
 ```
