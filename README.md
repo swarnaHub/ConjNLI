@@ -14,9 +14,9 @@ pip install -r requirements.txt
 
 ## Data
 
-ConjNLI dev and test sets can be found inside ```data/NLI``` folder.
+ConjNLI dev and test sets can be found inside ```data/NLI``` folder. The test set does not have gold annotations. Check out the ```Scoreboard``` section below to know how to submit results on the ConjNLI test set.
 
-We also release the adversarially created training examples at ```data/NLI/adversarial_15k_train.tsv```.
+We also release the adversarially created training examples at ```data/NLI/adversarial_15k_train.tsv``` which can be used to train the IAFT model (details below).
 
 MNLI train and dev splits can be downloaded by running
 ```
