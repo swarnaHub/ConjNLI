@@ -69,15 +69,18 @@ bash scripts/test_conjnli_PA.sh
 
 By default, these will report results on the ConjNLI dev set. Should you wish to evaluate these models on MNLI dev set, look at the comments in lines 105 and 155 of ```utils_conjnli.py```.
 
-### ScoreBoard
+### ConjNLI Scoreboard
 
-### ConjNLI
 Model | Link | Date | Conj Dev | MNLI Dev | Conj Test
---- | --- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | --- | ---
 BERT | [Saha et al., 2020]() | 10-20-2020 | 58.10 | 84.10/83.90 | 61.40
 RoBERTa | [Saha et al., 2020]() | 10-20-2020 | 64.68 | 87.56/87.51 | 65.50
 RoBERTa-PA | [Saha et al., 2020]() | 10-20-2020 | 64.88 | 87.75/87.63 | 66.30
-RoBERTa-IAFT | [Saaha et al., 2020]() | 10-20-2020 | 69.18 | 86.93/86.81 | 67.90
+RoBERTa-IAFT | [Saha et al., 2020]() | 10-20-2020 | 69.18 | 86.93/86.81 | 67.90
+
+### ConjNLI Submission
+
+If you want your results to be showed on the Scoreboard, please email us (swarna@cs.unc.edu) with the name of the entry, a link to your method, and your model prediction files. Specifically, you should send us four model prediction files, one for ConjNLI Dev set, two for MNLI matched/mismatched Dev sets and another for ConjNLI test set. Each prediction file should be a text file with one label per line, in the order of the examples. A sample prediction file is shown in ```data/NLI/sample_prediction.txt```.
 
 ### Citation
 ```
