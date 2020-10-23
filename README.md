@@ -45,7 +45,8 @@ This will save the model and sample predictions for ConjNLI dev set inside ```ou
 
 ### Training RoBERTa-PA
 
-The predicate-aware RoBERTa model (RoBERTa-PA) first requires a fine-tuned BERT model on the Semantic Role Labeling (SRL) task. The data used to train the SRL model is the CoNLL 2005 dataset, placed inside ```data/PropBank```.
+The predicate-aware RoBERTa model (RoBERTa-PA) first requires a fine-tuned BERT model on the Semantic Role Labeling (SRL) task. In order to train this model, you will first need to download the [CoNLL-2005 SRL data](https://www.cs.upc.edu/~srlconll/) and place the train, dev, test files inside ```data/PropBank```. 
+
 Train an SRL model on the PropBank data using the following script
 ```
 bash scripts/train_srl.sh
